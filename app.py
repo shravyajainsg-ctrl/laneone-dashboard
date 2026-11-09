@@ -120,7 +120,7 @@ if page == PAGES[0]:
     for c, (lab, v) in zip(cols, k.items()):
         c.metric(lab, v)
     st.markdown("---")
-    comp = cached_compare(SI["aov"], SI["stated_monthly_spend"], 400) if st.checkbox(
+    comp = cached_compare(SI["aov"], SI["stated_monthly_spend"], 1000) if st.checkbox(
         "Compute risk headline (runs a quick Monte-Carlo)", value=True) else None
     seg = A.conversion_segment(df.p_interest)
     rules, single, _ = A.association_rules(df)
