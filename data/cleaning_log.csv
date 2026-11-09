@@ -1,0 +1,49 @@
+step,column,rows_affected,action,rationale
+1 Duplicates,all,40,Dropped exact duplicate rows,Same form submitted twice would double-count a customer.
+1 Duplicates,all except resp_id,20,Dropped identical answers with a new ID,Identical 30 answers + timestamp = same person re-submitting.
+2 Dates,submitted_at,620,Parsed 3 date formats into one datetime,Mixed DD/MM vs ISO formats break time-series and can swap day/month.
+3 Likert,Q16_brand_preference,81,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q17_authenticity_matters,85,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q18_discount_seeker,85,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q19_multibrand_appeal,85,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q20_ai_reco_interest,85,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q21_phygital_interest,85,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q22_loyalty_influence,82,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q23_sustainability_values,82,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q24_data_sharing_comfort,87,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+3 Likert,Q25_fast_delivery_need,86,Text -> 1-5 code; values outside 1-5 set to missing,"Likert must be a 1-5 ordinal for correlations, clustering and models."
+4 Bots,completion_time_sec,60,Removed responses finished in < 90 sec (60 of them also straight-lined all 10 Likert items),A 30-question survey can't be read honestly in under 90 sec; these add random noise to every model.
+5 Categories,Q2_gender,225,Mapped F/female/Woman -> Female etc.,One concept must have one label or group counts split.
+5 Categories,Q3_area,282,"Mapped sub-localities (Andheri, Vashi, Colaba...) to 6 zones",Store-location analysis needs consistent zones.
+5 Categories,Q5_household_income,180,Unified '1-2 Lakh' style text to standard bands,Income must be one ordinal scale.
+5 Categories,Q10_channel,92,Fixed lower-case / shortened channel labels,Consistent labels.
+5 Categories,Q30_purchase_intent,126,Fixed case/spacing/'yes' variants of target,Target variable must be exact.
+6 Outliers,Q1_age,44,Extracted number from '25 yrs'; ages <16 or >80 set missing,"Ages like 0, 150, 999 are typing errors, not customers (domain rule, not statistics)."
+6 Money,Q9_monthly_fashion_spend,176,"Parsed '₹4,500' / '4.5k' / '4500 INR' to numbers",Spend must be numeric for regression & break-even.
+6 Outliers,Q9_monthly_fashion_spend,9,Negative amounts set missing,Spend can't be negative.
+6 Money,Q13_avg_order_value,190,"Parsed '₹4,500' / '4.5k' / '4500 INR' to numbers",Spend must be numeric for regression & break-even.
+6 Money,Q28_expected_monthly_spend,185,"Parsed '₹4,500' / '4.5k' / '4500 INR' to numbers",Spend must be numeric for regression & break-even.
+6 Outliers,Q9_monthly_fashion_spend,19,"Spend > 50% of household income: 19 corrected (÷100 'extra zeros'), 0 set missing","Fashion spend above half of household income is implausible. Genuine luxury shoppers (₹60K–1.5L with ₹8L+ income) are KEPT - they are real, valuable outliers."
+6 Outliers,Q28_expected_monthly_spend,16,Expected spend > ₹1.5L/month set missing,₹4L–20L/month at one store is a typo; left missing (we never impute a model target).
+6 Outliers,Q8_shop_freq_month,18,> 31 shopping trips/month set missing,More than daily is not credible.
+6 Outliers,Q14_social_hrs_week,16,> 112 hrs/week (16 hrs/day) set missing,A week has 168 hours; >16/day is impossible.
+7 Text,Q29_feedback_text,50,"Removed junk ('asdf', 'na', emojis only); fixed ALL-CAPS",Junk text adds no meaning and would distort sentiment scores.
+8 Impute,Q5_household_income,96,Mode within same area,Neighbourhood is the best proxy for income in Mumbai.
+8 Impute,Q1_age,82,Median within same occupation,Students and retirees have very different ages.
+8 Impute,Q9_monthly_fashion_spend,126,Median within same income band,Median is robust to the remaining skew; band keeps it realistic.
+8 Impute,Q13_avg_order_value,94,Median within same income band,Median is robust to the remaining skew; band keeps it realistic.
+8 Impute,Q8_shop_freq_month,18,Overall median,Few missing; median is robust.
+8 Impute,Q14_social_hrs_week,150,Overall median,Few missing; median is robust.
+8 Impute,Q16_brand_preference,70,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q17_authenticity_matters,67,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q18_discount_seeker,70,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q19_multibrand_appeal,68,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q20_ai_reco_interest,69,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q21_phygital_interest,68,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q22_loyalty_influence,69,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q23_sustainability_values,72,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q24_data_sharing_comfort,68,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q25_fast_delivery_need,68,Column median (neutral-ish),Keeps the 1-5 scale; < 5% missing.
+8 Impute,Q10_channel,40,Mode,Few missing.
+8 Impute,Q30_purchase_intent,0,Rows without target dropped,Can't train or evaluate on an unknown label.
+9 Transform,derived,1940,"Created target (interested 0/1), ordinal encodings, log spend, indices, one-hot for multi-selects",Models need numbers; log removes spend skew; indices summarise related Likert items.

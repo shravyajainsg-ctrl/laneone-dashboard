@@ -1,0 +1,764 @@
+{
+ "kpis": {
+  "Respondents (clean)": 1940,
+  "Interested (Probably/Definitely will)": "51.2%",
+  "Median monthly fashion spend": "\u20b94,290",
+  "Median order value": "\u20b92,150",
+  "Median expected spend at us (interested)": "\u20b93,000",
+  "Want multi-brand under one roof (Agree+)": "55.4%"
+ },
+ "n_raw": 2060,
+ "n_clean": 1940,
+ "interest_rate": 0.5123711340206185,
+ "best_classifier": "Logistic Regression",
+ "cls_table": [
+  {
+   "Model": "Logistic Regression",
+   "Accuracy": 0.796,
+   "Precision": 0.829,
+   "Recall": 0.759,
+   "F1": 0.792,
+   "ROC-AUC (test)": 0.892,
+   "ROC-AUC (5-fold CV)": 0.895,
+   "CV std": 0.017
+  },
+  {
+   "Model": "Random Forest",
+   "Accuracy": 0.816,
+   "Precision": 0.825,
+   "Recall": 0.815,
+   "F1": 0.82,
+   "ROC-AUC (test)": 0.891,
+   "ROC-AUC (5-fold CV)": 0.89,
+   "CV std": 0.024
+  },
+  {
+   "Model": "K-Nearest Neighbours",
+   "Accuracy": 0.798,
+   "Precision": 0.819,
+   "Recall": 0.779,
+   "F1": 0.798,
+   "ROC-AUC (test)": 0.884,
+   "ROC-AUC (5-fold CV)": 0.883,
+   "CV std": 0.021
+  },
+  {
+   "Model": "Gradient Boosting",
+   "Accuracy": 0.808,
+   "Precision": 0.825,
+   "Recall": 0.795,
+   "F1": 0.81,
+   "ROC-AUC (test)": 0.884,
+   "ROC-AUC (5-fold CV)": 0.883,
+   "CV std": 0.022
+  },
+  {
+   "Model": "Naive Bayes",
+   "Accuracy": 0.771,
+   "Precision": 0.792,
+   "Recall": 0.751,
+   "F1": 0.771,
+   "ROC-AUC (test)": 0.866,
+   "ROC-AUC (5-fold CV)": 0.867,
+   "CV std": 0.023
+  },
+  {
+   "Model": "Decision Tree",
+   "Accuracy": 0.767,
+   "Precision": 0.793,
+   "Recall": 0.739,
+   "F1": 0.765,
+   "ROC-AUC (test)": 0.849,
+   "ROC-AUC (5-fold CV)": 0.83,
+   "CV std": 0.019
+  }
+ ],
+ "segments": {
+  "High": 0.425,
+  "Low": 0.401,
+  "Medium": 0.175
+ },
+ "segment_actual": {
+  "High": 0.869,
+  "Low": 0.142,
+  "Medium": 0.496
+ },
+ "best_regressor": "Gradient Boosting",
+ "reg_table": [
+  {
+   "Model": "Gradient Boosting",
+   "R\u00b2 (log scale, test)": 0.884,
+   "R\u00b2 (5-fold CV)": 0.886,
+   "R\u00b2 (\u20b9 scale)": 0.833,
+   "MAE (\u20b9)": 584.794,
+   "RMSE (\u20b9)": 1076.53
+  },
+  {
+   "Model": "Random Forest",
+   "R\u00b2 (log scale, test)": 0.878,
+   "R\u00b2 (5-fold CV)": 0.882,
+   "R\u00b2 (\u20b9 scale)": 0.815,
+   "MAE (\u20b9)": 615.08,
+   "RMSE (\u20b9)": 1133.38
+  },
+  {
+   "Model": "Decision Tree",
+   "R\u00b2 (log scale, test)": 0.843,
+   "R\u00b2 (5-fold CV)": 0.861,
+   "R\u00b2 (\u20b9 scale)": 0.774,
+   "MAE (\u20b9)": 694.986,
+   "RMSE (\u20b9)": 1252.012
+  },
+  {
+   "Model": "Lasso",
+   "R\u00b2 (log scale, test)": 0.819,
+   "R\u00b2 (5-fold CV)": 0.818,
+   "R\u00b2 (\u20b9 scale)": 0.532,
+   "MAE (\u20b9)": 852.202,
+   "RMSE (\u20b9)": 1800.486
+  },
+  {
+   "Model": "Ridge",
+   "R\u00b2 (log scale, test)": 0.816,
+   "R\u00b2 (5-fold CV)": 0.816,
+   "R\u00b2 (\u20b9 scale)": 0.477,
+   "MAE (\u20b9)": 880.834,
+   "RMSE (\u20b9)": 1903.264
+  },
+  {
+   "Model": "Linear Regression",
+   "R\u00b2 (log scale, test)": 0.815,
+   "R\u00b2 (5-fold CV)": 0.815,
+   "R\u00b2 (\u20b9 scale)": 0.473,
+   "MAE (\u20b9)": 883.606,
+   "RMSE (\u20b9)": 1910.912
+  }
+ ],
+ "top_importance": {
+  "log_monthly_spend": 0.167,
+  "Q19_multibrand_appeal": 0.115,
+  "Q21_phygital_interest": 0.073,
+  "Q16_brand_preference": 0.063,
+  "Q20_ai_reco_interest": 0.059,
+  "income_ord": 0.052,
+  "Q17_authenticity_matters": 0.05,
+  "Q13_avg_order_value": 0.039
+ },
+ "silhouette": {
+  "2": 0.183,
+  "3": 0.142,
+  "4": 0.127,
+  "5": 0.116,
+  "6": 0.114,
+  "7": 0.111,
+  "8": 0.111
+ },
+ "personas": [
+  {
+   "cluster": 0,
+   "persona": "Mainstream Pragmatists",
+   "size": 548,
+   "age": 33.3,
+   "income_band": 3.41,
+   "monthly_spend": 6900.0,
+   "freq": 1.87,
+   "digital": 2.9,
+   "brand_affinity": 3.85,
+   "deal_seeker": 2.75,
+   "sustainability": 3.44,
+   "interest_rate": 0.64,
+   "exp_spend": 2550.0
+  },
+  {
+   "cluster": 1,
+   "persona": "Deal Hunters",
+   "size": 566,
+   "age": 23.39,
+   "income_band": 1.46,
+   "monthly_spend": 2890.0,
+   "freq": 1.96,
+   "digital": 3.33,
+   "brand_affinity": 3.48,
+   "deal_seeker": 3.68,
+   "sustainability": 3.04,
+   "interest_rate": 0.46,
+   "exp_spend": 750.0
+  },
+  {
+   "cluster": 2,
+   "persona": "Premium Trendsetters",
+   "size": 382,
+   "age": 27.67,
+   "income_band": 3.2,
+   "monthly_spend": 8430.0,
+   "freq": 4.54,
+   "digital": 3.79,
+   "brand_affinity": 4.38,
+   "deal_seeker": 3.23,
+   "sustainability": 3.33,
+   "interest_rate": 0.9,
+   "exp_spend": 4300.0
+  },
+  {
+   "cluster": 3,
+   "persona": "Conservative Traditionalists",
+   "size": 444,
+   "age": 35.19,
+   "income_band": 1.69,
+   "monthly_spend": 2400.0,
+   "freq": 1.44,
+   "digital": 2.44,
+   "brand_affinity": 2.85,
+   "deal_seeker": 3.35,
+   "sustainability": 2.96,
+   "interest_rate": 0.1,
+   "exp_spend": 100.0
+  }
+ ],
+ "top_rules": [
+  {
+   "If customer wants": "ALDO",
+   "\u2192 they also want": "Charles & Keith",
+   "Support": 0.074,
+   "Confidence": 0.51,
+   "Lift": 3.171,
+   "Leverage": 0.051
+  },
+  {
+   "If customer wants": "Charles & Keith",
+   "\u2192 they also want": "ALDO",
+   "Support": 0.074,
+   "Confidence": 0.462,
+   "Lift": 3.171,
+   "Leverage": 0.051
+  },
+  {
+   "If customer wants": "Calvin Klein",
+   "\u2192 they also want": "Tommy Hilfiger",
+   "Support": 0.08,
+   "Confidence": 0.537,
+   "Lift": 2.869,
+   "Leverage": 0.052
+  },
+  {
+   "If customer wants": "Tommy Hilfiger",
+   "\u2192 they also want": "Calvin Klein",
+   "Support": 0.08,
+   "Confidence": 0.43,
+   "Lift": 2.869,
+   "Leverage": 0.052
+  },
+  {
+   "If customer wants": "Nike + Puma",
+   "\u2192 they also want": "Adidas",
+   "Support": 0.07,
+   "Confidence": 0.636,
+   "Lift": 2.75,
+   "Leverage": 0.045
+  },
+  {
+   "If customer wants": "H&M + Zara",
+   "\u2192 they also want": "Mango",
+   "Support": 0.05,
+   "Confidence": 0.467,
+   "Lift": 2.511,
+   "Leverage": 0.03
+  },
+  {
+   "If customer wants": "Mango + Zara",
+   "\u2192 they also want": "H&M",
+   "Support": 0.05,
+   "Confidence": 0.521,
+   "Lift": 2.501,
+   "Leverage": 0.03
+  },
+  {
+   "If customer wants": "H&M + Mango",
+   "\u2192 they also want": "Zara",
+   "Support": 0.05,
+   "Confidence": 0.676,
+   "Lift": 2.487,
+   "Leverage": 0.03
+  },
+  {
+   "If customer wants": "Adidas + Nike",
+   "\u2192 they also want": "Puma",
+   "Support": 0.07,
+   "Confidence": 0.473,
+   "Lift": 2.474,
+   "Leverage": 0.042
+  },
+  {
+   "If customer wants": "Nike + Skechers",
+   "\u2192 they also want": "Adidas",
+   "Support": 0.051,
+   "Confidence": 0.56,
+   "Lift": 2.422,
+   "Leverage": 0.03
+  }
+ ],
+ "brand_support": {
+  "Nike": 0.347,
+  "Zara": 0.272,
+  "Levi's": 0.234,
+  "Adidas": 0.231,
+  "H&M": 0.208,
+  "Puma": 0.191,
+  "Tommy Hilfiger": 0.187,
+  "Mango": 0.186,
+  "Crocs": 0.175,
+  "Skechers": 0.172,
+  "Charles & Keith": 0.161,
+  "Calvin Klein": 0.15,
+  "ALDO": 0.146,
+  "FabIndia": 0.134,
+  "Steve Madden": 0.126
+ },
+ "optimizer": [
+  {
+   "Step": 1,
+   "Add brand": "Nike",
+   "New customers reached": 345,
+   "Cumulative coverage of interested customers": 0.347
+  },
+  {
+   "Step": 2,
+   "Add brand": "Zara",
+   "New customers reached": 205,
+   "Cumulative coverage of interested customers": 0.553
+  },
+  {
+   "Step": 3,
+   "Add brand": "Tommy Hilfiger",
+   "New customers reached": 106,
+   "Cumulative coverage of interested customers": 0.66
+  },
+  {
+   "Step": 4,
+   "Add brand": "FabIndia",
+   "New customers reached": 83,
+   "Cumulative coverage of interested customers": 0.743
+  },
+  {
+   "Step": 5,
+   "Add brand": "Charles & Keith",
+   "New customers reached": 63,
+   "Cumulative coverage of interested customers": 0.807
+  },
+  {
+   "Step": 6,
+   "Add brand": "Puma",
+   "New customers reached": 46,
+   "Cumulative coverage of interested customers": 0.853
+  },
+  {
+   "Step": 7,
+   "Add brand": "H&M",
+   "New customers reached": 36,
+   "Cumulative coverage of interested customers": 0.889
+  },
+  {
+   "Step": 8,
+   "Add brand": "Levi's",
+   "New customers reached": 25,
+   "Cumulative coverage of interested customers": 0.914
+  }
+ ],
+ "lexicon_acc": 0.7735527809307605,
+ "supervised_acc": 0.9965800273597811,
+ "sentiment_mix": {
+  "Negative": 0.45,
+  "Positive": 0.349,
+  "Neutral": 0.201
+ },
+ "topics": [
+  {
+   "topics": "Variety & sizes",
+   "mentions": 753,
+   "avg_sentiment": 0.15,
+   "pct_negative": 0.352
+  },
+  {
+   "topics": "Store experience",
+   "mentions": 543,
+   "avg_sentiment": -0.33,
+   "pct_negative": 0.683
+  },
+  {
+   "topics": "Authenticity & trust",
+   "mentions": 463,
+   "avg_sentiment": -0.077,
+   "pct_negative": 0.497
+  },
+  {
+   "topics": "Price & discounts",
+   "mentions": 424,
+   "avg_sentiment": -0.16,
+   "pct_negative": 0.538
+  },
+  {
+   "topics": "Personalisation & loyalty",
+   "mentions": 376,
+   "avg_sentiment": 0.057,
+   "pct_negative": 0.351
+  },
+  {
+   "topics": "Delivery & returns",
+   "mentions": 336,
+   "avg_sentiment": -0.089,
+   "pct_negative": 0.503
+  },
+  {
+   "topics": "Other",
+   "mentions": 93,
+   "avg_sentiment": 0.0,
+   "pct_negative": 0.0
+  }
+ ],
+ "survey_inputs": {
+  "aov": 2675.0,
+  "stated_monthly_spend": 3000.0,
+  "interest_rate": 0.5123711340206185
+ },
+ "static": {
+  "A. Lean pilot only (1,500 sq ft, 8 brands)": {
+   "fixed_monthly": 2320000.0,
+   "capex": 20100000.0,
+   "contrib_per_order": 586.4499999999999,
+   "cm_ratio": 0.21923364485981306,
+   "orders_per_customer": 0.3925233644859813,
+   "be_orders": 3956.006479665786,
+   "be_revenue": 10582317.333105978,
+   "be_customers": 10078.397460100932,
+   "be_month": 25.0,
+   "payback_month": null,
+   "peak_cash_need": 48030768.07219528,
+   "ltv": 3288.5046728971956,
+   "ltv_cac": 2.740420560747663
+  },
+  "B. Full flagship from day 1 (4,000 sq ft, 15 brands)": {
+   "fixed_monthly": 4592000.0,
+   "capex": 50600000.0,
+   "contrib_per_order": 719.85,
+   "cm_ratio": 0.26910280373831774,
+   "orders_per_customer": 0.3925233644859813,
+   "be_orders": 6379.106758352435,
+   "be_revenue": 17064110.578592762,
+   "be_customers": 16251.53388437406,
+   "be_month": 15.0,
+   "payback_month": 47.0,
+   "peak_cash_need": 86524438.96229142,
+   "ltv": 4036.542056074766,
+   "ltv_cac": 3.363785046728972
+  },
+  "C. Staged: lean pilot \u2192 flagship in month 13 (recommended)": {
+   "fixed_monthly": 4592000.0,
+   "capex": 58700000.0,
+   "contrib_per_order": 719.85,
+   "cm_ratio": 0.26910280373831774,
+   "orders_per_customer": 0.3925233644859813,
+   "be_orders": 6379.106758352435,
+   "be_revenue": 17064110.578592762,
+   "be_customers": 16251.53388437406,
+   "be_month": 21.0,
+   "payback_month": null,
+   "peak_cash_need": 92705324.56176446,
+   "ltv": 4036.542056074766,
+   "ltv_cac": 3.363785046728972
+  }
+ },
+ "comparison": [
+  {
+   "Scenario": "A. Lean pilot only (1,500 sq ft, 8 brands)",
+   "Total capex (\u20b9 Cr)": 2.01,
+   "Peak cash needed, base (\u20b9 Cr)": 4.803,
+   "Break-even month (base)": 25,
+   "Payback month (base)": NaN,
+   "P(monthly profit \u2264 24 m)": 0.448,
+   "P(payback \u2264 48 m)": 0.223,
+   "Expected cash @48m (\u20b9 Cr)": -3.681,
+   "Bad case P10 cash (\u20b9 Cr)": -9.855,
+   "P(loss > \u20b95 Cr)": 0.456,
+   "P(scale-up)": NaN
+  },
+  {
+   "Scenario": "B. Full flagship from day 1 (4,000 sq ft, 15 brands)",
+   "Total capex (\u20b9 Cr)": 5.06,
+   "Peak cash needed, base (\u20b9 Cr)": 8.652,
+   "Break-even month (base)": 15,
+   "Payback month (base)": 47.0,
+   "P(monthly profit \u2264 24 m)": 0.735,
+   "P(payback \u2264 48 m)": 0.491,
+   "Expected cash @48m (\u20b9 Cr)": 1.395,
+   "Bad case P10 cash (\u20b9 Cr)": -15.24,
+   "P(loss > \u20b95 Cr)": 0.365,
+   "P(scale-up)": NaN
+  },
+  {
+   "Scenario": "C. Staged: lean pilot \u2192 flagship in month 13 (recommended)",
+   "Total capex (\u20b9 Cr)": 5.87,
+   "Peak cash needed, base (\u20b9 Cr)": 9.271,
+   "Break-even month (base)": 21,
+   "Payback month (base)": NaN,
+   "P(monthly profit \u2264 24 m)": 0.445,
+   "P(payback \u2264 48 m)": 0.309,
+   "Expected cash @48m (\u20b9 Cr)": 0.404,
+   "Bad case P10 cash (\u20b9 Cr)": -4.835,
+   "P(loss > \u20b95 Cr)": 0.078,
+   "P(scale-up)": 0.481
+  }
+ ],
+ "sensitivity": [
+  {
+   "Driver (\u00b120%)": "Average order value",
+   "Low (-20%)": -5386757.0,
+   "High (+20%)": 3591171.0,
+   "Swing": 8977928.0
+  },
+  {
+   "Driver (\u00b120%)": "Rent per sq ft",
+   "Low (-20%)": 10290000.0,
+   "High (+20%)": -10290000.0,
+   "Swing": 20580000.0
+  },
+  {
+   "Driver (\u00b120%)": "CAC",
+   "Low (-20%)": 18133490.0,
+   "High (+20%)": -12088994.0,
+   "Swing": 30222484.0
+  },
+  {
+   "Driver (\u00b120%)": "Monthly churn",
+   "Low (-20%)": 18082815.0,
+   "High (+20%)": -15310394.0,
+   "Swing": 33393209.0
+  },
+  {
+   "Driver (\u00b120%)": "Intent realisation",
+   "Low (-20%)": -33762657.0,
+   "High (+20%)": 33762657.0,
+   "Swing": 67525314.0
+  },
+  {
+   "Driver (\u00b120%)": "Gross margin",
+   "Low (-20%)": -42919962.0,
+   "High (+20%)": 42919962.0,
+   "Swing": 85839924.0
+  }
+ ],
+ "scorecard": [
+  {
+   "Pillar": "Financial",
+   "Metric": "LTV / CAC ratio",
+   "Value": "3.4\u00d7",
+   "Score (0-100)": 59.0,
+   "Note": "\u22653\u00d7 healthy; <1\u00d7 destroys value",
+   "RAG": "\ud83d\udfe1"
+  },
+  {
+   "Pillar": "Financial",
+   "Metric": "P(monthly profit within 24 months)",
+   "Value": "44%",
+   "Score (0-100)": 44.0,
+   "Note": "Monte-Carlo, 1,000 runs",
+   "RAG": "\ud83d\udfe1"
+  },
+  {
+   "Pillar": "Financial",
+   "Metric": "P(capex paid back within 48 months)",
+   "Value": "31%",
+   "Score (0-100)": 31.0,
+   "Note": "Investor-grade if > 60%",
+   "RAG": "\ud83d\udd34"
+  },
+  {
+   "Pillar": "Market",
+   "Metric": "Stated interest rate",
+   "Value": "51%",
+   "Score (0-100)": 78.0,
+   "Note": "Share answering Probably/Definitely will",
+   "RAG": "\ud83d\udfe2"
+  },
+  {
+   "Pillar": "Market",
+   "Metric": "High-conversion segment size",
+   "Value": "42%",
+   "Score (0-100)": 100.0,
+   "Note": "Model probability \u2265 0.65",
+   "RAG": "\ud83d\udfe2"
+  },
+  {
+   "Pillar": "Market",
+   "Metric": "Discount dependence of interested base",
+   "Value": "30%",
+   "Score (0-100)": 75.0,
+   "Note": "Lower is better for margin",
+   "RAG": "\ud83d\udfe2"
+  },
+  {
+   "Pillar": "Operational",
+   "Metric": "Brand concentration (top-3 share of demand)",
+   "Value": "29%",
+   "Score (0-100)": 88.0,
+   "Note": "Lower = less supplier risk",
+   "RAG": "\ud83d\udfe2"
+  },
+  {
+   "Pillar": "Environmental/Social",
+   "Metric": "Customers valuing sustainability (Agree+)",
+   "Value": "40%",
+   "Score (0-100)": 71.0,
+   "Note": "Demand for a 'conscious edit'",
+   "RAG": "\ud83d\udfe2"
+  },
+  {
+   "Pillar": "Environmental/Social",
+   "Metric": "Spend premium of sustainability-minded",
+   "Value": "\u20b91,450 vs \u20b91,175",
+   "Score (0-100)": 84.0,
+   "Note": "Do eco-minded shoppers spend more?",
+   "RAG": "\ud83d\udfe2"
+  }
+ ],
+ "score_overall": 70.0,
+ "hypotheses": [
+  {
+   "H": "H1",
+   "Hypothesis (H1 / alternative)": "Interest differs across household-income bands",
+   "Test": "Chi-square",
+   "p-value": "4.74e-52",
+   "Effect / evidence": "Interest 20% (lowest band) \u2192 78% (highest band)",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H2",
+   "Hypothesis (H1 / alternative)": "Under-35s are more interested than 35+",
+   "Test": "Chi-square (2\u00d72)",
+   "p-value": "5.09e-06",
+   "Effect / evidence": "\u226434: 54% vs 35+: 43%",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H3",
+   "Hypothesis (H1 / alternative)": "Interested respondents already spend more on fashion",
+   "Test": "Mann-Whitney U (one-sided)",
+   "p-value": "1.86e-99",
+   "Effect / evidence": "Median \u20b96,095 vs \u20b92,955",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H4",
+   "Hypothesis (H1 / alternative)": "'Many brands under one roof' appeal is higher among the interested",
+   "Test": "Mann-Whitney U (one-sided)",
+   "p-value": "1.66e-88",
+   "Effect / evidence": "Mean 4.04 vs 3.09 (1\u20135)",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H5",
+   "Hypothesis (H1 / alternative)": "Interest in AI recommendations correlates with purchase intent",
+   "Test": "Spearman \u03c1",
+   "p-value": "1.64e-88",
+   "Effect / evidence": "\u03c1 = 0.43",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H6",
+   "Hypothesis (H1 / alternative)": "Interest differs by Mumbai zone",
+   "Test": "Chi-square",
+   "p-value": "1.48e-22",
+   "Effect / evidence": "Highest South Mumbai 71%, lowest Other MMR 22%",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H7",
+   "Hypothesis (H1 / alternative)": "Discount-seekers show lower purchase intent",
+   "Test": "Spearman \u03c1",
+   "p-value": "2.61e-23",
+   "Effect / evidence": "\u03c1 = -0.22",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H8",
+   "Hypothesis (H1 / alternative)": "Expected spend at us rises with current fashion spend",
+   "Test": "Spearman \u03c1",
+   "p-value": "0.00e+00",
+   "Effect / evidence": "\u03c1 = 0.80",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H9",
+   "Hypothesis (H1 / alternative)": "Sustainability values differ by age group",
+   "Test": "Kruskal-Wallis H",
+   "p-value": "0.307",
+   "Effect / evidence": "Means: 16-24 3.21, 25-34 3.22, 35-44 3.08, 45-54 3.30, 55+ 3.17",
+   "Decision": "Fail to reject H0 \u2718"
+  },
+  {
+   "H": "H10",
+   "Hypothesis (H1 / alternative)": "Interest differs between online-first and offline-first shoppers",
+   "Test": "Chi-square",
+   "p-value": "1.88e-35",
+   "Effect / evidence": "Both equally: 49%, Mostly offline: 31%, Mostly online: 66%",
+   "Decision": "Reject H0 \u2714 (supported)"
+  },
+  {
+   "H": "H11",
+   "Hypothesis (H1 / alternative)": "Expected spend differs between women and men",
+   "Test": "Mann-Whitney U (two-sided)",
+   "p-value": "0.031",
+   "Effect / evidence": "Median \u20b91,450 (F) vs \u20b91,100 (M)",
+   "Decision": "Reject H0 \u2714 (supported)"
+  }
+ ],
+ "targeting_top": [
+  {
+   "conv_segment": "High",
+   "persona": "Premium Trendsetters",
+   "customers": 363,
+   "p_interest": 0.93,
+   "pred_spend": 4395.13,
+   "expected_value": 4758.27
+  },
+  {
+   "conv_segment": "High",
+   "persona": "Mainstream Pragmatists",
+   "customers": 291,
+   "p_interest": 0.85,
+   "pred_spend": 3609.94,
+   "expected_value": 3614.24
+  },
+  {
+   "conv_segment": "High",
+   "persona": "Deal Hunters",
+   "customers": 166,
+   "p_interest": 0.82,
+   "pred_spend": 1625.98,
+   "expected_value": 1378.76
+  },
+  {
+   "conv_segment": "High",
+   "persona": "Conservative Traditionalists",
+   "customers": 4,
+   "p_interest": 0.73,
+   "pred_spend": 1498.49,
+   "expected_value": 1114.33
+  },
+  {
+   "conv_segment": "Medium",
+   "persona": "Mainstream Pragmatists",
+   "customers": 136,
+   "p_interest": 0.51,
+   "pred_spend": 1967.84,
+   "expected_value": 1052.43
+  },
+  {
+   "conv_segment": "Medium",
+   "persona": "Premium Trendsetters",
+   "customers": 15,
+   "p_interest": 0.54,
+   "pred_spend": 1881.6,
+   "expected_value": 899.66
+  }
+ ]
+}

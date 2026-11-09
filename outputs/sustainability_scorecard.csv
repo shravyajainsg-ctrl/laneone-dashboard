@@ -1,0 +1,10 @@
+Pillar,Metric,Value,Score (0-100),Note,RAG
+Financial,LTV / CAC ratio,3.4×,59.0,≥3× healthy; <1× destroys value,🟡
+Financial,P(monthly profit within 24 months),44%,44.0,"Monte-Carlo, 1,000 runs",🟡
+Financial,P(capex paid back within 48 months),31%,31.0,Investor-grade if > 60%,🔴
+Market,Stated interest rate,51%,78.0,Share answering Probably/Definitely will,🟢
+Market,High-conversion segment size,42%,100.0,Model probability ≥ 0.65,🟢
+Market,Discount dependence of interested base,30%,75.0,Lower is better for margin,🟢
+Operational,Brand concentration (top-3 share of demand),29%,88.0,Lower = less supplier risk,🟢
+Environmental/Social,Customers valuing sustainability (Agree+),40%,71.0,Demand for a 'conscious edit',🟢
+Environmental/Social,Spend premium of sustainability-minded,"₹1,450 vs ₹1,175",84.0,Do eco-minded shoppers spend more?,🟢

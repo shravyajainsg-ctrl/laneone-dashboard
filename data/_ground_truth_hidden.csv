@@ -1,0 +1,2001 @@
+resp_id,true_sentiment,true_topic,true_persona
+R10000,Positive,authenticity,Ethnic Fusion
+R10001,Positive,authenticity,Premium Classic
+R10002,Negative,delivery,Premium Classic
+R10003,Neutral,variety,Accessory Glam
+R10004,Positive,trust,Ethnic Fusion
+R10005,Neutral,authenticity,Trend Seeker
+R10006,Positive,variety,Sporty
+R10007,Positive,price,Accessory Glam
+R10008,Positive,authenticity,Sporty
+R10009,Neutral,authenticity,Sporty
+R10010,Negative,price,Trend Seeker
+R10011,Negative,experience,Trend Seeker
+R10012,Neutral,price,Sporty
+R10013,Positive,experience,Premium Classic
+R10014,Positive,price,Accessory Glam
+R10015,Negative,authenticity,Sporty
+R10016,Neutral,delivery,Accessory Glam
+R10017,Positive,trust,Trend Seeker
+R10018,Positive,variety,Accessory Glam
+R10019,Positive,price,Sporty
+R10020,Positive,authenticity,Ethnic Fusion
+R10021,Negative,price,Ethnic Fusion
+R10022,Negative,price,Sporty
+R10023,Negative,price,Trend Seeker
+R10024,Positive,delivery,Accessory Glam
+R10025,Negative,price,Sporty
+R10026,Neutral,authenticity,Trend Seeker
+R10027,Negative,delivery,Accessory Glam
+R10028,Positive,trust,Premium Classic
+R10029,Negative,price,Ethnic Fusion
+R10030,Neutral,price,Sporty
+R10031,Positive,price,Ethnic Fusion
+R10032,Positive,experience,Ethnic Fusion
+R10033,Positive,experience,Sporty
+R10034,Neutral,price,Trend Seeker
+R10035,Negative,price,Accessory Glam
+R10036,Negative,variety,Ethnic Fusion
+R10037,Neutral,delivery,Sporty
+R10038,Neutral,variety,Premium Classic
+R10039,Negative,experience,Accessory Glam
+R10040,Negative,variety,Trend Seeker
+R10041,Negative,delivery,Trend Seeker
+R10042,Negative,authenticity,Trend Seeker
+R10043,Positive,variety,Ethnic Fusion
+R10044,Negative,authenticity,Sporty
+R10045,Neutral,authenticity,Ethnic Fusion
+R10046,Neutral,trust,Premium Classic
+R10047,Negative,experience,Ethnic Fusion
+R10048,Positive,variety,Sporty
+R10049,Negative,price,Trend Seeker
+R10050,Positive,delivery,Accessory Glam
+R10051,Positive,experience,Accessory Glam
+R10052,Negative,experience,Sporty
+R10053,Positive,trust,Trend Seeker
+R10054,Positive,trust,Sporty
+R10055,Positive,trust,Sporty
+R10056,Neutral,authenticity,Accessory Glam
+R10057,Negative,price,Ethnic Fusion
+R10058,Negative,experience,Trend Seeker
+R10059,Neutral,variety,Sporty
+R10060,Positive,delivery,Sporty
+R10061,Negative,trust,Sporty
+R10062,Negative,experience,Sporty
+R10063,Neutral,authenticity,Accessory Glam
+R10064,Negative,variety,Sporty
+R10065,Positive,delivery,Sporty
+R10066,Negative,variety,Trend Seeker
+R10067,Negative,authenticity,Sporty
+R10068,Negative,variety,Premium Classic
+R10069,Positive,authenticity,Trend Seeker
+R10070,Negative,experience,Sporty
+R10071,Neutral,authenticity,Trend Seeker
+R10072,Negative,experience,Trend Seeker
+R10073,Neutral,price,Accessory Glam
+R10074,Negative,experience,Sporty
+R10075,Negative,experience,Trend Seeker
+R10076,Neutral,variety,Trend Seeker
+R10077,Negative,trust,Sporty
+R10078,Positive,delivery,Sporty
+R10079,Negative,price,Premium Classic
+R10080,Negative,delivery,Sporty
+R10081,Positive,delivery,Sporty
+R10082,Negative,trust,Ethnic Fusion
+R10083,Positive,experience,Trend Seeker
+R10084,Negative,trust,Trend Seeker
+R10085,Neutral,delivery,Premium Classic
+R10086,Positive,experience,Sporty
+R10087,Neutral,variety,Trend Seeker
+R10088,Positive,delivery,Trend Seeker
+R10089,Positive,delivery,Ethnic Fusion
+R10090,Positive,delivery,Sporty
+R10091,Negative,variety,Sporty
+R10092,Positive,variety,Trend Seeker
+R10093,Positive,authenticity,Sporty
+R10094,Negative,variety,Sporty
+R10095,Positive,experience,Sporty
+R10096,Negative,price,Sporty
+R10097,Negative,trust,Trend Seeker
+R10098,Negative,delivery,Accessory Glam
+R10099,Negative,authenticity,Trend Seeker
+R10100,Positive,authenticity,Premium Classic
+R10101,Negative,price,Accessory Glam
+R10102,Neutral,authenticity,Trend Seeker
+R10103,Negative,experience,Accessory Glam
+R10104,Negative,authenticity,Trend Seeker
+R10105,Neutral,delivery,Ethnic Fusion
+R10106,Neutral,authenticity,Premium Classic
+R10107,Positive,authenticity,Trend Seeker
+R10108,Negative,authenticity,Accessory Glam
+R10109,Positive,delivery,Accessory Glam
+R10110,Positive,delivery,Ethnic Fusion
+R10111,Positive,variety,Premium Classic
+R10112,Positive,variety,Accessory Glam
+R10113,Positive,authenticity,Premium Classic
+R10114,Positive,experience,Trend Seeker
+R10115,Positive,authenticity,Sporty
+R10116,Positive,trust,Premium Classic
+R10117,Negative,delivery,Ethnic Fusion
+R10118,Positive,price,Accessory Glam
+R10119,Positive,delivery,Premium Classic
+R10120,Positive,delivery,Sporty
+R10121,Neutral,trust,Premium Classic
+R10122,Positive,variety,Sporty
+R10123,Neutral,authenticity,Sporty
+R10124,Positive,authenticity,Ethnic Fusion
+R10125,Neutral,trust,Trend Seeker
+R10126,Neutral,delivery,Sporty
+R10127,Negative,trust,Accessory Glam
+R10128,Positive,trust,Sporty
+R10129,Positive,trust,Trend Seeker
+R10130,Negative,authenticity,Sporty
+R10131,Positive,experience,Sporty
+R10132,Negative,authenticity,Premium Classic
+R10133,Positive,experience,Accessory Glam
+R10134,Positive,price,Premium Classic
+R10135,Neutral,authenticity,Trend Seeker
+R10136,Positive,experience,Ethnic Fusion
+R10137,Negative,trust,Accessory Glam
+R10138,Negative,delivery,Ethnic Fusion
+R10139,Positive,variety,Ethnic Fusion
+R10140,Negative,authenticity,Accessory Glam
+R10141,Positive,authenticity,Sporty
+R10142,Negative,authenticity,Sporty
+R10143,Positive,variety,Accessory Glam
+R10144,Positive,authenticity,Trend Seeker
+R10145,Positive,delivery,Accessory Glam
+R10146,Negative,experience,Trend Seeker
+R10147,Neutral,authenticity,Trend Seeker
+R10148,Neutral,delivery,Accessory Glam
+R10149,Negative,authenticity,Trend Seeker
+R10150,Positive,authenticity,Sporty
+R10151,Positive,delivery,Trend Seeker
+R10152,Neutral,authenticity,Sporty
+R10153,Positive,authenticity,Sporty
+R10154,Neutral,authenticity,Trend Seeker
+R10155,Positive,trust,Sporty
+R10156,Negative,price,Accessory Glam
+R10157,Positive,price,Premium Classic
+R10158,Negative,authenticity,Accessory Glam
+R10159,Positive,authenticity,Sporty
+R10160,Negative,delivery,Trend Seeker
+R10161,Positive,delivery,Premium Classic
+R10162,Negative,variety,Trend Seeker
+R10163,Positive,trust,Trend Seeker
+R10164,Positive,delivery,Trend Seeker
+R10165,Neutral,delivery,Trend Seeker
+R10166,Negative,authenticity,Accessory Glam
+R10167,Positive,delivery,Trend Seeker
+R10168,Positive,variety,Premium Classic
+R10169,Positive,authenticity,Ethnic Fusion
+R10170,Neutral,delivery,Trend Seeker
+R10171,Neutral,delivery,Premium Classic
+R10172,Negative,authenticity,Sporty
+R10173,Negative,experience,Sporty
+R10174,Negative,delivery,Premium Classic
+R10175,Positive,authenticity,Accessory Glam
+R10176,Positive,variety,Trend Seeker
+R10177,Positive,authenticity,Ethnic Fusion
+R10178,Neutral,price,Sporty
+R10179,Neutral,variety,Premium Classic
+R10180,Negative,variety,Sporty
+R10181,Positive,price,Premium Classic
+R10182,Positive,trust,Premium Classic
+R10183,Positive,variety,Accessory Glam
+R10184,Negative,price,Trend Seeker
+R10185,Negative,delivery,Premium Classic
+R10186,Neutral,authenticity,Sporty
+R10187,Positive,trust,Trend Seeker
+R10188,Negative,experience,Sporty
+R10189,Positive,delivery,Trend Seeker
+R10190,Positive,authenticity,Premium Classic
+R10191,Positive,delivery,Accessory Glam
+R10192,Neutral,trust,Ethnic Fusion
+R10193,Neutral,variety,Trend Seeker
+R10194,Positive,authenticity,Ethnic Fusion
+R10195,Negative,variety,Accessory Glam
+R10196,Negative,price,Sporty
+R10197,Negative,experience,Accessory Glam
+R10198,Positive,price,Trend Seeker
+R10199,Positive,experience,Accessory Glam
+R10200,Positive,trust,Accessory Glam
+R10201,Negative,experience,Ethnic Fusion
+R10202,Positive,trust,Trend Seeker
+R10203,Neutral,authenticity,Ethnic Fusion
+R10204,Neutral,delivery,Premium Classic
+R10205,Negative,variety,Ethnic Fusion
+R10206,Positive,variety,Trend Seeker
+R10207,Neutral,authenticity,Accessory Glam
+R10208,Positive,authenticity,Trend Seeker
+R10209,Negative,experience,Sporty
+R10210,Positive,price,Sporty
+R10211,Positive,experience,Trend Seeker
+R10212,Positive,variety,Ethnic Fusion
+R10213,Negative,authenticity,Accessory Glam
+R10214,Positive,trust,Trend Seeker
+R10215,Negative,authenticity,Sporty
+R10216,Negative,variety,Premium Classic
+R10217,Positive,variety,Premium Classic
+R10218,Positive,delivery,Accessory Glam
+R10219,Neutral,price,Premium Classic
+R10220,Positive,experience,Trend Seeker
+R10221,Negative,delivery,Premium Classic
+R10222,Negative,trust,Ethnic Fusion
+R10223,Neutral,delivery,Trend Seeker
+R10224,Negative,price,Sporty
+R10225,Negative,authenticity,Premium Classic
+R10226,Neutral,experience,Premium Classic
+R10227,Neutral,authenticity,Sporty
+R10228,Neutral,price,Trend Seeker
+R10229,Neutral,delivery,Sporty
+R10230,Neutral,trust,Trend Seeker
+R10231,Positive,variety,Premium Classic
+R10232,Negative,trust,Trend Seeker
+R10233,Positive,price,Premium Classic
+R10234,Negative,trust,Trend Seeker
+R10235,Positive,price,Sporty
+R10236,Neutral,price,Premium Classic
+R10237,Neutral,variety,Accessory Glam
+R10238,Neutral,trust,Accessory Glam
+R10239,Neutral,variety,Sporty
+R10240,Positive,authenticity,Sporty
+R10241,Negative,authenticity,Ethnic Fusion
+R10242,Positive,authenticity,Sporty
+R10243,Negative,trust,Ethnic Fusion
+R10244,Negative,delivery,Ethnic Fusion
+R10245,Neutral,experience,Sporty
+R10246,Positive,price,Sporty
+R10247,Positive,trust,Ethnic Fusion
+R10248,Positive,authenticity,Premium Classic
+R10249,Positive,authenticity,Trend Seeker
+R10250,Neutral,price,Sporty
+R10251,Negative,price,Trend Seeker
+R10252,Positive,delivery,Ethnic Fusion
+R10253,Negative,authenticity,Trend Seeker
+R10254,Negative,delivery,Sporty
+R10255,Negative,authenticity,Trend Seeker
+R10256,Negative,variety,Trend Seeker
+R10257,Negative,authenticity,Sporty
+R10258,Negative,variety,Accessory Glam
+R10259,Positive,variety,Trend Seeker
+R10260,Negative,trust,Sporty
+R10261,Neutral,experience,Ethnic Fusion
+R10262,Negative,trust,Trend Seeker
+R10263,Neutral,delivery,Sporty
+R10264,Positive,price,Sporty
+R10265,Neutral,delivery,Premium Classic
+R10266,Positive,delivery,Premium Classic
+R10267,Negative,trust,Premium Classic
+R10268,Neutral,variety,Accessory Glam
+R10269,Positive,price,Trend Seeker
+R10270,Positive,variety,Sporty
+R10271,Negative,delivery,Accessory Glam
+R10272,Positive,authenticity,Trend Seeker
+R10273,Positive,authenticity,Trend Seeker
+R10274,Neutral,trust,Ethnic Fusion
+R10275,Positive,delivery,Premium Classic
+R10276,Neutral,delivery,Sporty
+R10277,Positive,authenticity,Sporty
+R10278,Neutral,authenticity,Premium Classic
+R10279,Positive,variety,Trend Seeker
+R10280,Negative,delivery,Sporty
+R10281,Positive,experience,Trend Seeker
+R10282,Neutral,delivery,Ethnic Fusion
+R10283,Neutral,delivery,Trend Seeker
+R10284,Neutral,experience,Trend Seeker
+R10285,Positive,experience,Trend Seeker
+R10286,Neutral,trust,Accessory Glam
+R10287,Negative,price,Premium Classic
+R10288,Positive,variety,Premium Classic
+R10289,Neutral,authenticity,Premium Classic
+R10290,Positive,price,Sporty
+R10291,Negative,price,Premium Classic
+R10292,Positive,experience,Trend Seeker
+R10293,Positive,experience,Sporty
+R10294,Positive,authenticity,Premium Classic
+R10295,Positive,trust,Accessory Glam
+R10296,Positive,authenticity,Premium Classic
+R10297,Negative,variety,Premium Classic
+R10298,Positive,price,Sporty
+R10299,Positive,authenticity,Sporty
+R10300,Negative,experience,Accessory Glam
+R10301,Neutral,trust,Sporty
+R10302,Neutral,delivery,Sporty
+R10303,Positive,authenticity,Ethnic Fusion
+R10304,Positive,variety,Trend Seeker
+R10305,Positive,experience,Trend Seeker
+R10306,Negative,trust,Trend Seeker
+R10307,Neutral,experience,Premium Classic
+R10308,Negative,price,Premium Classic
+R10309,Negative,trust,Trend Seeker
+R10310,Negative,trust,Sporty
+R10311,Negative,experience,Premium Classic
+R10312,Negative,variety,Trend Seeker
+R10313,Positive,delivery,Sporty
+R10314,Neutral,authenticity,Sporty
+R10315,Negative,experience,Trend Seeker
+R10316,Positive,delivery,Trend Seeker
+R10317,Positive,trust,Trend Seeker
+R10318,Negative,delivery,Sporty
+R10319,Negative,delivery,Trend Seeker
+R10320,Negative,trust,Ethnic Fusion
+R10321,Neutral,trust,Trend Seeker
+R10322,Positive,authenticity,Ethnic Fusion
+R10323,Positive,delivery,Premium Classic
+R10324,Neutral,experience,Sporty
+R10325,Negative,price,Trend Seeker
+R10326,Positive,delivery,Trend Seeker
+R10327,Negative,price,Accessory Glam
+R10328,Neutral,variety,Premium Classic
+R10329,Negative,trust,Premium Classic
+R10330,Negative,delivery,Ethnic Fusion
+R10331,Negative,delivery,Sporty
+R10332,Positive,trust,Trend Seeker
+R10333,Positive,authenticity,Premium Classic
+R10334,Negative,variety,Ethnic Fusion
+R10335,Neutral,trust,Sporty
+R10336,Positive,price,Accessory Glam
+R10337,Positive,variety,Trend Seeker
+R10338,Negative,delivery,Ethnic Fusion
+R10339,Positive,variety,Ethnic Fusion
+R10340,Positive,authenticity,Trend Seeker
+R10341,Positive,trust,Sporty
+R10342,Negative,variety,Trend Seeker
+R10343,Positive,delivery,Accessory Glam
+R10344,Neutral,delivery,Accessory Glam
+R10345,Neutral,price,Accessory Glam
+R10346,Negative,variety,Trend Seeker
+R10347,Negative,experience,Premium Classic
+R10348,Negative,trust,Sporty
+R10349,Neutral,delivery,Premium Classic
+R10350,Positive,experience,Trend Seeker
+R10351,Negative,price,Trend Seeker
+R10352,Positive,variety,Sporty
+R10353,Neutral,delivery,Accessory Glam
+R10354,Negative,experience,Sporty
+R10355,Neutral,price,Premium Classic
+R10356,Positive,authenticity,Premium Classic
+R10357,Neutral,delivery,Premium Classic
+R10358,Neutral,price,Sporty
+R10359,Positive,authenticity,Trend Seeker
+R10360,Positive,variety,Accessory Glam
+R10361,Negative,authenticity,Trend Seeker
+R10362,Positive,trust,Ethnic Fusion
+R10363,Positive,trust,Sporty
+R10364,Positive,authenticity,Sporty
+R10365,Negative,authenticity,Sporty
+R10366,Neutral,price,Trend Seeker
+R10367,Positive,variety,Sporty
+R10368,Positive,variety,Ethnic Fusion
+R10369,Negative,variety,Accessory Glam
+R10370,Negative,price,Accessory Glam
+R10371,Negative,price,Trend Seeker
+R10372,Positive,delivery,Trend Seeker
+R10373,Negative,variety,Premium Classic
+R10374,Negative,variety,Premium Classic
+R10375,Positive,authenticity,Accessory Glam
+R10376,Neutral,variety,Sporty
+R10377,Neutral,authenticity,Accessory Glam
+R10378,Positive,trust,Accessory Glam
+R10379,Positive,price,Trend Seeker
+R10380,Positive,experience,Sporty
+R10381,Negative,trust,Sporty
+R10382,Neutral,variety,Sporty
+R10383,Neutral,experience,Trend Seeker
+R10384,Neutral,trust,Sporty
+R10385,Positive,price,Ethnic Fusion
+R10386,Negative,price,Ethnic Fusion
+R10387,Positive,trust,Sporty
+R10388,Positive,price,Accessory Glam
+R10389,Neutral,authenticity,Sporty
+R10390,Neutral,variety,Sporty
+R10391,Positive,trust,Sporty
+R10392,Positive,variety,Trend Seeker
+R10393,Neutral,trust,Ethnic Fusion
+R10394,Negative,trust,Sporty
+R10395,Positive,authenticity,Sporty
+R10396,Negative,authenticity,Trend Seeker
+R10397,Negative,experience,Trend Seeker
+R10398,Neutral,delivery,Sporty
+R10399,Neutral,price,Accessory Glam
+R10400,Negative,delivery,Ethnic Fusion
+R10401,Negative,authenticity,Premium Classic
+R10402,Neutral,experience,Ethnic Fusion
+R10403,Neutral,price,Trend Seeker
+R10404,Positive,experience,Premium Classic
+R10405,Positive,experience,Trend Seeker
+R10406,Negative,price,Premium Classic
+R10407,Negative,trust,Premium Classic
+R10408,Negative,authenticity,Sporty
+R10409,Negative,experience,Trend Seeker
+R10410,Negative,variety,Sporty
+R10411,Positive,trust,Sporty
+R10412,Positive,trust,Trend Seeker
+R10413,Positive,trust,Premium Classic
+R10414,Neutral,delivery,Sporty
+R10415,Positive,experience,Sporty
+R10416,Neutral,authenticity,Ethnic Fusion
+R10417,Negative,variety,Trend Seeker
+R10418,Neutral,authenticity,Sporty
+R10419,Negative,authenticity,Ethnic Fusion
+R10420,Positive,experience,Trend Seeker
+R10421,Positive,authenticity,Sporty
+R10422,Positive,delivery,Premium Classic
+R10423,Neutral,delivery,Sporty
+R10424,Positive,price,Trend Seeker
+R10425,Positive,variety,Accessory Glam
+R10426,Neutral,variety,Sporty
+R10427,Neutral,trust,Premium Classic
+R10428,Positive,trust,Premium Classic
+R10429,Neutral,experience,Trend Seeker
+R10430,Positive,delivery,Sporty
+R10431,Negative,trust,Accessory Glam
+R10432,Neutral,delivery,Trend Seeker
+R10433,Neutral,variety,Sporty
+R10434,Negative,trust,Accessory Glam
+R10435,Negative,delivery,Sporty
+R10436,Positive,variety,Trend Seeker
+R10437,Negative,trust,Trend Seeker
+R10438,Neutral,delivery,Sporty
+R10439,Negative,authenticity,Sporty
+R10440,Positive,delivery,Sporty
+R10441,Negative,variety,Trend Seeker
+R10442,Positive,authenticity,Trend Seeker
+R10443,Positive,trust,Sporty
+R10444,Negative,authenticity,Sporty
+R10445,Positive,price,Accessory Glam
+R10446,Negative,variety,Premium Classic
+R10447,Negative,trust,Premium Classic
+R10448,Negative,trust,Trend Seeker
+R10449,Neutral,delivery,Sporty
+R10450,Negative,price,Ethnic Fusion
+R10451,Positive,delivery,Sporty
+R10452,Neutral,price,Ethnic Fusion
+R10453,Negative,delivery,Sporty
+R10454,Positive,price,Sporty
+R10455,Positive,authenticity,Trend Seeker
+R10456,Positive,experience,Ethnic Fusion
+R10457,Negative,trust,Trend Seeker
+R10458,Neutral,experience,Sporty
+R10459,Negative,experience,Ethnic Fusion
+R10460,Neutral,delivery,Sporty
+R10461,Neutral,authenticity,Sporty
+R10462,Negative,price,Sporty
+R10463,Negative,trust,Trend Seeker
+R10464,Positive,variety,Sporty
+R10465,Positive,authenticity,Sporty
+R10466,Negative,authenticity,Ethnic Fusion
+R10467,Neutral,variety,Trend Seeker
+R10468,Positive,trust,Premium Classic
+R10469,Positive,delivery,Trend Seeker
+R10470,Negative,experience,Sporty
+R10471,Neutral,trust,Trend Seeker
+R10472,Negative,variety,Premium Classic
+R10473,Negative,price,Trend Seeker
+R10474,Neutral,variety,Accessory Glam
+R10475,Positive,delivery,Premium Classic
+R10476,Negative,price,Sporty
+R10477,Negative,experience,Trend Seeker
+R10478,Neutral,delivery,Trend Seeker
+R10479,Negative,delivery,Accessory Glam
+R10480,Positive,price,Accessory Glam
+R10481,Positive,experience,Ethnic Fusion
+R10482,Negative,trust,Trend Seeker
+R10483,Positive,price,Ethnic Fusion
+R10484,Positive,trust,Trend Seeker
+R10485,Neutral,trust,Sporty
+R10486,Positive,variety,Trend Seeker
+R10487,Positive,authenticity,Sporty
+R10488,Positive,price,Sporty
+R10489,Positive,price,Sporty
+R10490,Positive,experience,Premium Classic
+R10491,Neutral,experience,Trend Seeker
+R10492,Neutral,experience,Trend Seeker
+R10493,Negative,trust,Sporty
+R10494,Positive,experience,Ethnic Fusion
+R10495,Positive,delivery,Accessory Glam
+R10496,Positive,price,Sporty
+R10497,Neutral,experience,Sporty
+R10498,Negative,price,Sporty
+R10499,Neutral,variety,Accessory Glam
+R10500,Negative,experience,Premium Classic
+R10501,Neutral,experience,Ethnic Fusion
+R10502,Neutral,price,Premium Classic
+R10503,Positive,delivery,Accessory Glam
+R10504,Negative,variety,Sporty
+R10505,Negative,delivery,Premium Classic
+R10506,Neutral,variety,Premium Classic
+R10507,Positive,price,Premium Classic
+R10508,Positive,experience,Ethnic Fusion
+R10509,Positive,delivery,Accessory Glam
+R10510,Positive,authenticity,Sporty
+R10511,Positive,delivery,Accessory Glam
+R10512,Negative,variety,Sporty
+R10513,Neutral,authenticity,Ethnic Fusion
+R10514,Neutral,experience,Trend Seeker
+R10515,Negative,authenticity,Sporty
+R10516,Negative,price,Sporty
+R10517,Positive,variety,Sporty
+R10518,Negative,trust,Ethnic Fusion
+R10519,Negative,price,Sporty
+R10520,Neutral,variety,Sporty
+R10521,Positive,variety,Accessory Glam
+R10522,Positive,variety,Premium Classic
+R10523,Neutral,price,Sporty
+R10524,Neutral,authenticity,Trend Seeker
+R10525,Neutral,variety,Sporty
+R10526,Negative,delivery,Ethnic Fusion
+R10527,Positive,variety,Premium Classic
+R10528,Positive,authenticity,Sporty
+R10529,Negative,trust,Premium Classic
+R10530,Positive,variety,Sporty
+R10531,Neutral,variety,Premium Classic
+R10532,Positive,authenticity,Trend Seeker
+R10533,Negative,price,Accessory Glam
+R10534,Positive,authenticity,Premium Classic
+R10535,Negative,price,Accessory Glam
+R10536,Positive,delivery,Sporty
+R10537,Positive,trust,Ethnic Fusion
+R10538,Negative,delivery,Sporty
+R10539,Neutral,variety,Accessory Glam
+R10540,Negative,variety,Trend Seeker
+R10541,Negative,variety,Sporty
+R10542,Positive,experience,Premium Classic
+R10543,Neutral,variety,Ethnic Fusion
+R10544,Neutral,price,Accessory Glam
+R10545,Negative,price,Trend Seeker
+R10546,Neutral,trust,Premium Classic
+R10547,Negative,price,Trend Seeker
+R10548,Positive,delivery,Premium Classic
+R10549,Neutral,trust,Accessory Glam
+R10550,Neutral,authenticity,Sporty
+R10551,Negative,variety,Accessory Glam
+R10552,Positive,delivery,Accessory Glam
+R10553,Negative,variety,Premium Classic
+R10554,Neutral,authenticity,Trend Seeker
+R10555,Negative,delivery,Premium Classic
+R10556,Negative,variety,Sporty
+R10557,Negative,variety,Sporty
+R10558,Negative,trust,Sporty
+R10559,Positive,authenticity,Sporty
+R10560,Neutral,authenticity,Trend Seeker
+R10561,Negative,variety,Trend Seeker
+R10562,Negative,variety,Trend Seeker
+R10563,Positive,authenticity,Ethnic Fusion
+R10564,Negative,delivery,Ethnic Fusion
+R10565,Neutral,experience,Sporty
+R10566,Neutral,delivery,Premium Classic
+R10567,Neutral,delivery,Ethnic Fusion
+R10568,Negative,variety,Sporty
+R10569,Negative,authenticity,Premium Classic
+R10570,Positive,authenticity,Ethnic Fusion
+R10571,Positive,trust,Accessory Glam
+R10572,Neutral,experience,Trend Seeker
+R10573,Negative,experience,Accessory Glam
+R10574,Negative,delivery,Sporty
+R10575,Positive,price,Trend Seeker
+R10576,Negative,authenticity,Accessory Glam
+R10577,Neutral,variety,Premium Classic
+R10578,Positive,delivery,Sporty
+R10579,Negative,variety,Sporty
+R10580,Negative,price,Accessory Glam
+R10581,Positive,experience,Trend Seeker
+R10582,Positive,authenticity,Ethnic Fusion
+R10583,Positive,variety,Premium Classic
+R10584,Positive,variety,Trend Seeker
+R10585,Positive,experience,Sporty
+R10586,Neutral,authenticity,Ethnic Fusion
+R10587,Neutral,experience,Premium Classic
+R10588,Positive,variety,Trend Seeker
+R10589,Negative,price,Sporty
+R10590,Positive,authenticity,Sporty
+R10591,Positive,variety,Sporty
+R10592,Neutral,authenticity,Accessory Glam
+R10593,Positive,authenticity,Sporty
+R10594,Neutral,price,Accessory Glam
+R10595,Negative,price,Sporty
+R10596,Negative,price,Premium Classic
+R10597,Negative,experience,Sporty
+R10598,Positive,authenticity,Sporty
+R10599,Positive,variety,Trend Seeker
+R10600,Negative,delivery,Sporty
+R10601,Negative,experience,Premium Classic
+R10602,Neutral,authenticity,Premium Classic
+R10603,Positive,variety,Sporty
+R10604,Positive,trust,Trend Seeker
+R10605,Neutral,delivery,Trend Seeker
+R10606,Negative,variety,Sporty
+R10607,Neutral,trust,Sporty
+R10608,Positive,variety,Sporty
+R10609,Positive,experience,Sporty
+R10610,Neutral,variety,Sporty
+R10611,Negative,variety,Trend Seeker
+R10612,Positive,experience,Sporty
+R10613,Positive,price,Ethnic Fusion
+R10614,Positive,experience,Accessory Glam
+R10615,Positive,delivery,Sporty
+R10616,Negative,authenticity,Accessory Glam
+R10617,Positive,delivery,Sporty
+R10618,Positive,authenticity,Sporty
+R10619,Neutral,trust,Ethnic Fusion
+R10620,Positive,experience,Premium Classic
+R10621,Negative,trust,Sporty
+R10622,Positive,trust,Accessory Glam
+R10623,Positive,price,Ethnic Fusion
+R10624,Neutral,variety,Trend Seeker
+R10625,Positive,authenticity,Trend Seeker
+R10626,Neutral,variety,Accessory Glam
+R10627,Neutral,price,Accessory Glam
+R10628,Positive,price,Trend Seeker
+R10629,Positive,experience,Trend Seeker
+R10630,Neutral,authenticity,Trend Seeker
+R10631,Positive,price,Premium Classic
+R10632,Positive,variety,Sporty
+R10633,Negative,trust,Sporty
+R10634,Positive,price,Sporty
+R10635,Positive,experience,Sporty
+R10636,Positive,trust,Premium Classic
+R10637,Negative,delivery,Ethnic Fusion
+R10638,Negative,trust,Sporty
+R10639,Negative,authenticity,Premium Classic
+R10640,Positive,trust,Trend Seeker
+R10641,Positive,authenticity,Trend Seeker
+R10642,Neutral,variety,Trend Seeker
+R10643,Positive,trust,Trend Seeker
+R10644,Neutral,experience,Trend Seeker
+R10645,Positive,trust,Sporty
+R10646,Neutral,trust,Premium Classic
+R10647,Positive,authenticity,Trend Seeker
+R10648,Positive,trust,Sporty
+R10649,Positive,trust,Sporty
+R10650,Negative,authenticity,Trend Seeker
+R10651,Negative,authenticity,Trend Seeker
+R10652,Negative,price,Trend Seeker
+R10653,Negative,authenticity,Accessory Glam
+R10654,Negative,authenticity,Trend Seeker
+R10655,Negative,delivery,Sporty
+R10656,Negative,delivery,Accessory Glam
+R10657,Negative,delivery,Accessory Glam
+R10658,Negative,price,Sporty
+R10659,Neutral,experience,Premium Classic
+R10660,Neutral,price,Premium Classic
+R10661,Positive,delivery,Accessory Glam
+R10662,Negative,trust,Trend Seeker
+R10663,Positive,experience,Premium Classic
+R10664,Negative,variety,Ethnic Fusion
+R10665,Negative,trust,Trend Seeker
+R10666,Positive,trust,Sporty
+R10667,Neutral,variety,Accessory Glam
+R10668,Neutral,trust,Accessory Glam
+R10669,Negative,trust,Sporty
+R10670,Negative,price,Trend Seeker
+R10671,Positive,experience,Trend Seeker
+R10672,Positive,price,Trend Seeker
+R10673,Negative,authenticity,Ethnic Fusion
+R10674,Positive,price,Premium Classic
+R10675,Negative,delivery,Accessory Glam
+R10676,Negative,delivery,Trend Seeker
+R10677,Neutral,trust,Sporty
+R10678,Negative,authenticity,Sporty
+R10679,Positive,price,Ethnic Fusion
+R10680,Positive,trust,Trend Seeker
+R10681,Negative,delivery,Premium Classic
+R10682,Positive,trust,Sporty
+R10683,Positive,variety,Sporty
+R10684,Positive,delivery,Sporty
+R10685,Positive,experience,Trend Seeker
+R10686,Neutral,authenticity,Trend Seeker
+R10687,Positive,price,Sporty
+R10688,Positive,trust,Trend Seeker
+R10689,Positive,price,Ethnic Fusion
+R10690,Negative,variety,Ethnic Fusion
+R10691,Positive,experience,Accessory Glam
+R10692,Neutral,price,Premium Classic
+R10693,Positive,delivery,Premium Classic
+R10694,Positive,variety,Premium Classic
+R10695,Negative,delivery,Sporty
+R10696,Positive,experience,Trend Seeker
+R10697,Positive,experience,Accessory Glam
+R10698,Positive,delivery,Trend Seeker
+R10699,Positive,trust,Sporty
+R10700,Positive,experience,Sporty
+R10701,Positive,experience,Accessory Glam
+R10702,Negative,experience,Sporty
+R10703,Negative,authenticity,Sporty
+R10704,Neutral,trust,Accessory Glam
+R10705,Negative,trust,Accessory Glam
+R10706,Negative,trust,Sporty
+R10707,Positive,delivery,Sporty
+R10708,Positive,variety,Accessory Glam
+R10709,Neutral,trust,Ethnic Fusion
+R10710,Positive,experience,Premium Classic
+R10711,Positive,price,Accessory Glam
+R10712,Negative,price,Sporty
+R10713,Positive,authenticity,Trend Seeker
+R10714,Neutral,experience,Trend Seeker
+R10715,Neutral,price,Trend Seeker
+R10716,Negative,variety,Trend Seeker
+R10717,Negative,variety,Premium Classic
+R10718,Neutral,delivery,Sporty
+R10719,Positive,authenticity,Accessory Glam
+R10720,Positive,variety,Sporty
+R10721,Negative,price,Accessory Glam
+R10722,Negative,authenticity,Premium Classic
+R10723,Negative,trust,Sporty
+R10724,Positive,variety,Trend Seeker
+R10725,Negative,experience,Trend Seeker
+R10726,Positive,authenticity,Accessory Glam
+R10727,Positive,experience,Sporty
+R10728,Positive,experience,Sporty
+R10729,Positive,variety,Sporty
+R10730,Neutral,variety,Premium Classic
+R10731,Negative,trust,Trend Seeker
+R10732,Negative,price,Premium Classic
+R10733,Neutral,delivery,Sporty
+R10734,Positive,experience,Ethnic Fusion
+R10735,Negative,delivery,Sporty
+R10736,Neutral,price,Trend Seeker
+R10737,Positive,delivery,Ethnic Fusion
+R10738,Negative,experience,Trend Seeker
+R10739,Negative,authenticity,Premium Classic
+R10740,Negative,delivery,Ethnic Fusion
+R10741,Neutral,authenticity,Premium Classic
+R10742,Negative,trust,Sporty
+R10743,Positive,experience,Sporty
+R10744,Negative,experience,Ethnic Fusion
+R10745,Negative,variety,Sporty
+R10746,Positive,delivery,Accessory Glam
+R10747,Positive,trust,Sporty
+R10748,Negative,variety,Sporty
+R10749,Neutral,authenticity,Trend Seeker
+R10750,Negative,delivery,Ethnic Fusion
+R10751,Positive,variety,Sporty
+R10752,Negative,variety,Sporty
+R10753,Neutral,experience,Trend Seeker
+R10754,Neutral,delivery,Premium Classic
+R10755,Positive,delivery,Premium Classic
+R10756,Negative,variety,Sporty
+R10757,Neutral,trust,Ethnic Fusion
+R10758,Negative,authenticity,Sporty
+R10759,Positive,authenticity,Premium Classic
+R10760,Negative,price,Premium Classic
+R10761,Neutral,price,Sporty
+R10762,Negative,variety,Premium Classic
+R10763,Positive,trust,Premium Classic
+R10764,Negative,trust,Accessory Glam
+R10765,Neutral,variety,Trend Seeker
+R10766,Negative,price,Sporty
+R10767,Neutral,experience,Accessory Glam
+R10768,Positive,delivery,Trend Seeker
+R10769,Negative,variety,Premium Classic
+R10770,Positive,delivery,Sporty
+R10771,Neutral,price,Trend Seeker
+R10772,Positive,price,Trend Seeker
+R10773,Neutral,trust,Accessory Glam
+R10774,Neutral,authenticity,Trend Seeker
+R10775,Negative,trust,Sporty
+R10776,Negative,experience,Ethnic Fusion
+R10777,Negative,variety,Sporty
+R10778,Positive,delivery,Sporty
+R10779,Negative,authenticity,Trend Seeker
+R10780,Positive,authenticity,Sporty
+R10781,Positive,trust,Trend Seeker
+R10782,Positive,price,Premium Classic
+R10783,Negative,trust,Trend Seeker
+R10784,Neutral,delivery,Trend Seeker
+R10785,Positive,delivery,Trend Seeker
+R10786,Neutral,variety,Trend Seeker
+R10787,Negative,variety,Premium Classic
+R10788,Negative,authenticity,Trend Seeker
+R10789,Neutral,variety,Premium Classic
+R10790,Positive,variety,Premium Classic
+R10791,Negative,trust,Sporty
+R10792,Negative,price,Premium Classic
+R10793,Neutral,trust,Premium Classic
+R10794,Positive,price,Accessory Glam
+R10795,Negative,delivery,Trend Seeker
+R10796,Negative,price,Ethnic Fusion
+R10797,Positive,experience,Trend Seeker
+R10798,Neutral,authenticity,Trend Seeker
+R10799,Positive,variety,Accessory Glam
+R10800,Positive,delivery,Sporty
+R10801,Neutral,variety,Trend Seeker
+R10802,Negative,price,Accessory Glam
+R10803,Positive,authenticity,Sporty
+R10804,Neutral,price,Premium Classic
+R10805,Positive,experience,Trend Seeker
+R10806,Negative,delivery,Trend Seeker
+R10807,Negative,delivery,Sporty
+R10808,Positive,price,Sporty
+R10809,Neutral,delivery,Sporty
+R10810,Negative,trust,Trend Seeker
+R10811,Neutral,delivery,Accessory Glam
+R10812,Negative,authenticity,Ethnic Fusion
+R10813,Positive,trust,Trend Seeker
+R10814,Negative,experience,Sporty
+R10815,Negative,variety,Sporty
+R10816,Positive,experience,Premium Classic
+R10817,Neutral,delivery,Trend Seeker
+R10818,Negative,authenticity,Accessory Glam
+R10819,Neutral,experience,Sporty
+R10820,Positive,price,Ethnic Fusion
+R10821,Positive,price,Premium Classic
+R10822,Neutral,trust,Trend Seeker
+R10823,Positive,experience,Accessory Glam
+R10824,Negative,delivery,Trend Seeker
+R10825,Negative,trust,Trend Seeker
+R10826,Neutral,authenticity,Accessory Glam
+R10827,Positive,trust,Accessory Glam
+R10828,Negative,experience,Ethnic Fusion
+R10829,Negative,delivery,Trend Seeker
+R10830,Positive,trust,Premium Classic
+R10831,Positive,experience,Accessory Glam
+R10832,Positive,delivery,Trend Seeker
+R10833,Neutral,experience,Premium Classic
+R10834,Positive,authenticity,Trend Seeker
+R10835,Negative,authenticity,Sporty
+R10836,Negative,delivery,Trend Seeker
+R10837,Negative,delivery,Ethnic Fusion
+R10838,Positive,experience,Premium Classic
+R10839,Negative,price,Sporty
+R10840,Negative,experience,Sporty
+R10841,Neutral,experience,Trend Seeker
+R10842,Negative,trust,Sporty
+R10843,Positive,variety,Trend Seeker
+R10844,Negative,trust,Sporty
+R10845,Positive,price,Premium Classic
+R10846,Negative,trust,Sporty
+R10847,Neutral,authenticity,Sporty
+R10848,Positive,price,Trend Seeker
+R10849,Negative,price,Ethnic Fusion
+R10850,Negative,delivery,Accessory Glam
+R10851,Neutral,price,Accessory Glam
+R10852,Negative,delivery,Sporty
+R10853,Negative,variety,Accessory Glam
+R10854,Negative,variety,Trend Seeker
+R10855,Negative,delivery,Accessory Glam
+R10856,Neutral,trust,Premium Classic
+R10857,Positive,trust,Premium Classic
+R10858,Positive,delivery,Sporty
+R10859,Negative,price,Sporty
+R10860,Neutral,trust,Sporty
+R10861,Positive,experience,Premium Classic
+R10862,Negative,variety,Ethnic Fusion
+R10863,Neutral,trust,Sporty
+R10864,Negative,authenticity,Premium Classic
+R10865,Negative,experience,Premium Classic
+R10866,Neutral,delivery,Sporty
+R10867,Positive,trust,Sporty
+R10868,Negative,price,Premium Classic
+R10869,Positive,experience,Trend Seeker
+R10870,Positive,authenticity,Premium Classic
+R10871,Negative,experience,Sporty
+R10872,Positive,trust,Sporty
+R10873,Negative,authenticity,Accessory Glam
+R10874,Positive,trust,Trend Seeker
+R10875,Positive,authenticity,Sporty
+R10876,Negative,experience,Trend Seeker
+R10877,Negative,price,Ethnic Fusion
+R10878,Positive,price,Sporty
+R10879,Negative,trust,Sporty
+R10880,Negative,authenticity,Sporty
+R10881,Negative,price,Sporty
+R10882,Neutral,trust,Trend Seeker
+R10883,Negative,trust,Accessory Glam
+R10884,Negative,experience,Trend Seeker
+R10885,Positive,price,Sporty
+R10886,Negative,authenticity,Accessory Glam
+R10887,Positive,experience,Sporty
+R10888,Neutral,trust,Sporty
+R10889,Negative,variety,Sporty
+R10890,Positive,trust,Accessory Glam
+R10891,Positive,authenticity,Accessory Glam
+R10892,Neutral,authenticity,Trend Seeker
+R10893,Neutral,variety,Accessory Glam
+R10894,Neutral,experience,Sporty
+R10895,Positive,trust,Premium Classic
+R10896,Negative,experience,Accessory Glam
+R10897,Negative,experience,Ethnic Fusion
+R10898,Negative,price,Trend Seeker
+R10899,Positive,price,Sporty
+R10900,Negative,delivery,Ethnic Fusion
+R10901,Neutral,authenticity,Premium Classic
+R10902,Neutral,delivery,Sporty
+R10903,Neutral,variety,Sporty
+R10904,Negative,price,Sporty
+R10905,Positive,price,Trend Seeker
+R10906,Positive,delivery,Trend Seeker
+R10907,Negative,delivery,Sporty
+R10908,Negative,trust,Sporty
+R10909,Positive,authenticity,Trend Seeker
+R10910,Positive,variety,Trend Seeker
+R10911,Negative,delivery,Premium Classic
+R10912,Negative,price,Premium Classic
+R10913,Negative,experience,Accessory Glam
+R10914,Negative,delivery,Ethnic Fusion
+R10915,Positive,delivery,Premium Classic
+R10916,Negative,trust,Trend Seeker
+R10917,Neutral,price,Ethnic Fusion
+R10918,Positive,delivery,Sporty
+R10919,Neutral,delivery,Ethnic Fusion
+R10920,Positive,experience,Premium Classic
+R10921,Negative,trust,Trend Seeker
+R10922,Negative,price,Trend Seeker
+R10923,Negative,delivery,Sporty
+R10924,Negative,trust,Accessory Glam
+R10925,Negative,variety,Accessory Glam
+R10926,Negative,experience,Sporty
+R10927,Neutral,trust,Trend Seeker
+R10928,Neutral,authenticity,Ethnic Fusion
+R10929,Positive,variety,Accessory Glam
+R10930,Positive,experience,Trend Seeker
+R10931,Positive,authenticity,Sporty
+R10932,Negative,delivery,Sporty
+R10933,Negative,price,Sporty
+R10934,Positive,delivery,Trend Seeker
+R10935,Positive,experience,Trend Seeker
+R10936,Positive,price,Ethnic Fusion
+R10937,Negative,trust,Sporty
+R10938,Positive,price,Ethnic Fusion
+R10939,Positive,trust,Ethnic Fusion
+R10940,Negative,variety,Trend Seeker
+R10941,Neutral,delivery,Ethnic Fusion
+R10942,Positive,variety,Premium Classic
+R10943,Negative,trust,Premium Classic
+R10944,Positive,experience,Sporty
+R10945,Positive,authenticity,Sporty
+R10946,Positive,authenticity,Sporty
+R10947,Negative,trust,Accessory Glam
+R10948,Positive,price,Sporty
+R10949,Negative,variety,Sporty
+R10950,Positive,delivery,Sporty
+R10951,Negative,experience,Trend Seeker
+R10952,Neutral,trust,Ethnic Fusion
+R10953,Neutral,experience,Premium Classic
+R10954,Positive,variety,Accessory Glam
+R10955,Neutral,variety,Ethnic Fusion
+R10956,Positive,price,Trend Seeker
+R10957,Neutral,authenticity,Accessory Glam
+R10958,Negative,delivery,Trend Seeker
+R10959,Negative,trust,Ethnic Fusion
+R10960,Positive,variety,Premium Classic
+R10961,Negative,variety,Trend Seeker
+R10962,Negative,variety,Trend Seeker
+R10963,Negative,price,Sporty
+R10964,Positive,delivery,Trend Seeker
+R10965,Positive,price,Accessory Glam
+R10966,Negative,experience,Accessory Glam
+R10967,Positive,variety,Ethnic Fusion
+R10968,Negative,variety,Trend Seeker
+R10969,Positive,experience,Trend Seeker
+R10970,Positive,price,Ethnic Fusion
+R10971,Positive,trust,Sporty
+R10972,Positive,experience,Sporty
+R10973,Neutral,experience,Trend Seeker
+R10974,Neutral,delivery,Trend Seeker
+R10975,Negative,authenticity,Accessory Glam
+R10976,Negative,variety,Accessory Glam
+R10977,Negative,trust,Sporty
+R10978,Positive,variety,Trend Seeker
+R10979,Negative,delivery,Trend Seeker
+R10980,Positive,experience,Ethnic Fusion
+R10981,Neutral,authenticity,Premium Classic
+R10982,Neutral,experience,Premium Classic
+R10983,Negative,delivery,Accessory Glam
+R10984,Negative,price,Trend Seeker
+R10985,Neutral,experience,Sporty
+R10986,Neutral,authenticity,Sporty
+R10987,Neutral,experience,Sporty
+R10988,Positive,authenticity,Trend Seeker
+R10989,Positive,price,Trend Seeker
+R10990,Positive,delivery,Trend Seeker
+R10991,Neutral,price,Trend Seeker
+R10992,Positive,trust,Sporty
+R10993,Positive,delivery,Sporty
+R10994,Neutral,variety,Trend Seeker
+R10995,Neutral,price,Accessory Glam
+R10996,Neutral,variety,Trend Seeker
+R10997,Positive,experience,Trend Seeker
+R10998,Positive,price,Ethnic Fusion
+R10999,Positive,authenticity,Ethnic Fusion
+R11000,Negative,experience,Trend Seeker
+R11001,Negative,trust,Premium Classic
+R11002,Negative,authenticity,Sporty
+R11003,Positive,delivery,Premium Classic
+R11004,Positive,experience,Trend Seeker
+R11005,Negative,variety,Sporty
+R11006,Positive,variety,Premium Classic
+R11007,Positive,experience,Ethnic Fusion
+R11008,Negative,price,Sporty
+R11009,Positive,variety,Trend Seeker
+R11010,Positive,authenticity,Ethnic Fusion
+R11011,Negative,price,Trend Seeker
+R11012,Negative,price,Sporty
+R11013,Positive,variety,Accessory Glam
+R11014,Positive,variety,Trend Seeker
+R11015,Neutral,authenticity,Sporty
+R11016,Negative,price,Trend Seeker
+R11017,Negative,price,Sporty
+R11018,Positive,authenticity,Trend Seeker
+R11019,Neutral,price,Ethnic Fusion
+R11020,Negative,variety,Trend Seeker
+R11021,Negative,experience,Ethnic Fusion
+R11022,Neutral,price,Trend Seeker
+R11023,Positive,variety,Ethnic Fusion
+R11024,Positive,authenticity,Accessory Glam
+R11025,Neutral,price,Sporty
+R11026,Negative,variety,Ethnic Fusion
+R11027,Negative,price,Accessory Glam
+R11028,Negative,authenticity,Sporty
+R11029,Negative,authenticity,Accessory Glam
+R11030,Neutral,trust,Sporty
+R11031,Negative,delivery,Sporty
+R11032,Neutral,price,Sporty
+R11033,Positive,variety,Premium Classic
+R11034,Positive,authenticity,Sporty
+R11035,Positive,delivery,Sporty
+R11036,Negative,experience,Ethnic Fusion
+R11037,Neutral,delivery,Premium Classic
+R11038,Negative,variety,Accessory Glam
+R11039,Neutral,delivery,Sporty
+R11040,Neutral,delivery,Sporty
+R11041,Negative,authenticity,Accessory Glam
+R11042,Positive,price,Premium Classic
+R11043,Neutral,experience,Premium Classic
+R11044,Neutral,variety,Ethnic Fusion
+R11045,Negative,experience,Sporty
+R11046,Positive,authenticity,Premium Classic
+R11047,Negative,trust,Trend Seeker
+R11048,Positive,variety,Sporty
+R11049,Positive,price,Accessory Glam
+R11050,Negative,price,Trend Seeker
+R11051,Negative,experience,Sporty
+R11052,Negative,price,Trend Seeker
+R11053,Negative,delivery,Trend Seeker
+R11054,Positive,experience,Trend Seeker
+R11055,Negative,trust,Ethnic Fusion
+R11056,Positive,authenticity,Accessory Glam
+R11057,Positive,authenticity,Premium Classic
+R11058,Neutral,experience,Ethnic Fusion
+R11059,Negative,price,Trend Seeker
+R11060,Neutral,experience,Sporty
+R11061,Neutral,delivery,Sporty
+R11062,Negative,experience,Sporty
+R11063,Positive,experience,Sporty
+R11064,Positive,trust,Premium Classic
+R11065,Positive,delivery,Premium Classic
+R11066,Negative,trust,Ethnic Fusion
+R11067,Negative,authenticity,Premium Classic
+R11068,Neutral,variety,Sporty
+R11069,Neutral,price,Ethnic Fusion
+R11070,Negative,price,Premium Classic
+R11071,Positive,authenticity,Sporty
+R11072,Positive,delivery,Sporty
+R11073,Positive,delivery,Accessory Glam
+R11074,Positive,delivery,Trend Seeker
+R11075,Negative,delivery,Accessory Glam
+R11076,Neutral,price,Ethnic Fusion
+R11077,Negative,authenticity,Accessory Glam
+R11078,Negative,experience,Accessory Glam
+R11079,Negative,delivery,Accessory Glam
+R11080,Positive,variety,Accessory Glam
+R11081,Positive,price,Sporty
+R11082,Positive,price,Trend Seeker
+R11083,Positive,variety,Premium Classic
+R11084,Positive,variety,Premium Classic
+R11085,Neutral,delivery,Trend Seeker
+R11086,Positive,trust,Trend Seeker
+R11087,Positive,variety,Premium Classic
+R11088,Neutral,price,Trend Seeker
+R11089,Positive,price,Sporty
+R11090,Negative,price,Accessory Glam
+R11091,Positive,authenticity,Premium Classic
+R11092,Positive,delivery,Accessory Glam
+R11093,Negative,trust,Trend Seeker
+R11094,Positive,price,Premium Classic
+R11095,Negative,authenticity,Ethnic Fusion
+R11096,Positive,price,Ethnic Fusion
+R11097,Positive,delivery,Trend Seeker
+R11098,Neutral,variety,Ethnic Fusion
+R11099,Negative,authenticity,Premium Classic
+R11100,Positive,variety,Ethnic Fusion
+R11101,Negative,variety,Ethnic Fusion
+R11102,Positive,delivery,Trend Seeker
+R11103,Positive,experience,Trend Seeker
+R11104,Negative,authenticity,Accessory Glam
+R11105,Negative,authenticity,Trend Seeker
+R11106,Positive,variety,Premium Classic
+R11107,Negative,trust,Trend Seeker
+R11108,Neutral,price,Accessory Glam
+R11109,Positive,trust,Premium Classic
+R11110,Neutral,trust,Accessory Glam
+R11111,Positive,trust,Trend Seeker
+R11112,Neutral,price,Trend Seeker
+R11113,Positive,experience,Sporty
+R11114,Positive,delivery,Premium Classic
+R11115,Neutral,price,Trend Seeker
+R11116,Negative,variety,Premium Classic
+R11117,Positive,price,Sporty
+R11118,Positive,variety,Sporty
+R11119,Neutral,trust,Sporty
+R11120,Neutral,authenticity,Sporty
+R11121,Neutral,variety,Premium Classic
+R11122,Positive,trust,Accessory Glam
+R11123,Negative,variety,Accessory Glam
+R11124,Positive,price,Ethnic Fusion
+R11125,Negative,variety,Sporty
+R11126,Negative,experience,Sporty
+R11127,Positive,experience,Sporty
+R11128,Negative,variety,Trend Seeker
+R11129,Positive,delivery,Sporty
+R11130,Positive,authenticity,Sporty
+R11131,Negative,variety,Trend Seeker
+R11132,Positive,trust,Premium Classic
+R11133,Neutral,variety,Trend Seeker
+R11134,Negative,price,Trend Seeker
+R11135,Neutral,experience,Ethnic Fusion
+R11136,Neutral,delivery,Trend Seeker
+R11137,Positive,delivery,Premium Classic
+R11138,Negative,authenticity,Trend Seeker
+R11139,Neutral,authenticity,Sporty
+R11140,Negative,delivery,Sporty
+R11141,Positive,delivery,Premium Classic
+R11142,Neutral,variety,Sporty
+R11143,Neutral,authenticity,Sporty
+R11144,Positive,price,Trend Seeker
+R11145,Negative,price,Ethnic Fusion
+R11146,Negative,delivery,Sporty
+R11147,Positive,trust,Premium Classic
+R11148,Negative,delivery,Ethnic Fusion
+R11149,Negative,price,Sporty
+R11150,Negative,delivery,Accessory Glam
+R11151,Positive,trust,Sporty
+R11152,Negative,experience,Ethnic Fusion
+R11153,Positive,trust,Sporty
+R11154,Positive,variety,Premium Classic
+R11155,Neutral,delivery,Ethnic Fusion
+R11156,Negative,price,Trend Seeker
+R11157,Negative,delivery,Sporty
+R11158,Neutral,delivery,Trend Seeker
+R11159,Positive,delivery,Accessory Glam
+R11160,Positive,delivery,Trend Seeker
+R11161,Positive,authenticity,Sporty
+R11162,Positive,trust,Premium Classic
+R11163,Positive,delivery,Ethnic Fusion
+R11164,Neutral,authenticity,Sporty
+R11165,Positive,trust,Premium Classic
+R11166,Negative,variety,Sporty
+R11167,Negative,delivery,Sporty
+R11168,Negative,trust,Premium Classic
+R11169,Positive,variety,Trend Seeker
+R11170,Positive,trust,Sporty
+R11171,Positive,trust,Sporty
+R11172,Positive,authenticity,Sporty
+R11173,Negative,price,Sporty
+R11174,Positive,experience,Sporty
+R11175,Positive,delivery,Accessory Glam
+R11176,Positive,variety,Sporty
+R11177,Positive,delivery,Sporty
+R11178,Positive,price,Premium Classic
+R11179,Negative,price,Accessory Glam
+R11180,Positive,variety,Trend Seeker
+R11181,Negative,variety,Ethnic Fusion
+R11182,Positive,variety,Premium Classic
+R11183,Negative,experience,Sporty
+R11184,Neutral,delivery,Sporty
+R11185,Positive,variety,Sporty
+R11186,Positive,price,Ethnic Fusion
+R11187,Negative,experience,Trend Seeker
+R11188,Positive,price,Accessory Glam
+R11189,Positive,authenticity,Ethnic Fusion
+R11190,Positive,trust,Ethnic Fusion
+R11191,Neutral,variety,Premium Classic
+R11192,Positive,trust,Accessory Glam
+R11193,Negative,variety,Trend Seeker
+R11194,Positive,trust,Sporty
+R11195,Positive,experience,Premium Classic
+R11196,Positive,variety,Accessory Glam
+R11197,Neutral,price,Trend Seeker
+R11198,Neutral,experience,Trend Seeker
+R11199,Positive,variety,Accessory Glam
+R11200,Neutral,delivery,Premium Classic
+R11201,Negative,trust,Accessory Glam
+R11202,Positive,delivery,Sporty
+R11203,Positive,trust,Sporty
+R11204,Positive,price,Premium Classic
+R11205,Neutral,trust,Accessory Glam
+R11206,Positive,trust,Ethnic Fusion
+R11207,Positive,authenticity,Premium Classic
+R11208,Neutral,experience,Sporty
+R11209,Positive,authenticity,Sporty
+R11210,Neutral,variety,Trend Seeker
+R11211,Negative,trust,Trend Seeker
+R11212,Positive,authenticity,Trend Seeker
+R11213,Positive,experience,Sporty
+R11214,Neutral,authenticity,Sporty
+R11215,Negative,delivery,Ethnic Fusion
+R11216,Neutral,delivery,Premium Classic
+R11217,Neutral,variety,Sporty
+R11218,Negative,price,Sporty
+R11219,Positive,authenticity,Premium Classic
+R11220,Negative,trust,Sporty
+R11221,Positive,variety,Sporty
+R11222,Neutral,variety,Trend Seeker
+R11223,Positive,trust,Sporty
+R11224,Positive,delivery,Trend Seeker
+R11225,Negative,experience,Premium Classic
+R11226,Negative,delivery,Sporty
+R11227,Negative,price,Premium Classic
+R11228,Negative,price,Accessory Glam
+R11229,Positive,price,Sporty
+R11230,Negative,trust,Trend Seeker
+R11231,Positive,authenticity,Premium Classic
+R11232,Positive,variety,Sporty
+R11233,Positive,price,Sporty
+R11234,Neutral,experience,Accessory Glam
+R11235,Neutral,trust,Sporty
+R11236,Positive,price,Accessory Glam
+R11237,Negative,experience,Sporty
+R11238,Positive,authenticity,Accessory Glam
+R11239,Negative,authenticity,Sporty
+R11240,Negative,price,Sporty
+R11241,Neutral,delivery,Trend Seeker
+R11242,Neutral,authenticity,Sporty
+R11243,Neutral,trust,Trend Seeker
+R11244,Negative,authenticity,Trend Seeker
+R11245,Positive,price,Accessory Glam
+R11246,Positive,delivery,Trend Seeker
+R11247,Positive,experience,Sporty
+R11248,Positive,authenticity,Sporty
+R11249,Neutral,variety,Premium Classic
+R11250,Negative,experience,Sporty
+R11251,Negative,price,Sporty
+R11252,Positive,authenticity,Premium Classic
+R11253,Positive,trust,Trend Seeker
+R11254,Positive,delivery,Trend Seeker
+R11255,Positive,authenticity,Sporty
+R11256,Negative,variety,Premium Classic
+R11257,Neutral,price,Premium Classic
+R11258,Negative,price,Sporty
+R11259,Positive,experience,Trend Seeker
+R11260,Neutral,variety,Premium Classic
+R11261,Negative,price,Sporty
+R11262,Negative,experience,Ethnic Fusion
+R11263,Neutral,variety,Premium Classic
+R11264,Positive,variety,Sporty
+R11265,Positive,variety,Trend Seeker
+R11266,Negative,authenticity,Trend Seeker
+R11267,Negative,authenticity,Ethnic Fusion
+R11268,Positive,experience,Ethnic Fusion
+R11269,Neutral,authenticity,Accessory Glam
+R11270,Negative,delivery,Sporty
+R11271,Negative,experience,Premium Classic
+R11272,Neutral,experience,Sporty
+R11273,Positive,delivery,Trend Seeker
+R11274,Positive,authenticity,Ethnic Fusion
+R11275,Positive,price,Sporty
+R11276,Neutral,trust,Accessory Glam
+R11277,Negative,trust,Premium Classic
+R11278,Neutral,authenticity,Sporty
+R11279,Positive,price,Trend Seeker
+R11280,Positive,variety,Premium Classic
+R11281,Neutral,variety,Trend Seeker
+R11282,Negative,delivery,Premium Classic
+R11283,Negative,price,Sporty
+R11284,Positive,authenticity,Sporty
+R11285,Positive,price,Trend Seeker
+R11286,Negative,price,Ethnic Fusion
+R11287,Neutral,trust,Accessory Glam
+R11288,Negative,experience,Ethnic Fusion
+R11289,Neutral,authenticity,Ethnic Fusion
+R11290,Negative,experience,Sporty
+R11291,Neutral,variety,Trend Seeker
+R11292,Neutral,delivery,Trend Seeker
+R11293,Positive,authenticity,Premium Classic
+R11294,Negative,trust,Premium Classic
+R11295,Positive,price,Accessory Glam
+R11296,Neutral,price,Ethnic Fusion
+R11297,Negative,price,Ethnic Fusion
+R11298,Positive,authenticity,Trend Seeker
+R11299,Positive,trust,Accessory Glam
+R11300,Positive,variety,Premium Classic
+R11301,Neutral,variety,Accessory Glam
+R11302,Negative,authenticity,Trend Seeker
+R11303,Negative,trust,Ethnic Fusion
+R11304,Positive,price,Ethnic Fusion
+R11305,Neutral,authenticity,Premium Classic
+R11306,Positive,authenticity,Ethnic Fusion
+R11307,Negative,authenticity,Accessory Glam
+R11308,Negative,variety,Sporty
+R11309,Negative,variety,Sporty
+R11310,Neutral,experience,Accessory Glam
+R11311,Positive,experience,Sporty
+R11312,Positive,trust,Sporty
+R11313,Positive,variety,Premium Classic
+R11314,Negative,delivery,Sporty
+R11315,Negative,authenticity,Trend Seeker
+R11316,Positive,authenticity,Accessory Glam
+R11317,Positive,experience,Sporty
+R11318,Negative,price,Trend Seeker
+R11319,Neutral,variety,Sporty
+R11320,Neutral,authenticity,Accessory Glam
+R11321,Positive,variety,Sporty
+R11322,Neutral,authenticity,Trend Seeker
+R11323,Positive,variety,Accessory Glam
+R11324,Neutral,experience,Ethnic Fusion
+R11325,Negative,delivery,Premium Classic
+R11326,Negative,variety,Trend Seeker
+R11327,Positive,authenticity,Sporty
+R11328,Positive,experience,Trend Seeker
+R11329,Neutral,trust,Trend Seeker
+R11330,Negative,trust,Trend Seeker
+R11331,Positive,price,Sporty
+R11332,Positive,authenticity,Premium Classic
+R11333,Positive,experience,Trend Seeker
+R11334,Negative,variety,Premium Classic
+R11335,Positive,variety,Accessory Glam
+R11336,Negative,variety,Sporty
+R11337,Negative,experience,Premium Classic
+R11338,Neutral,authenticity,Premium Classic
+R11339,Negative,delivery,Accessory Glam
+R11340,Negative,authenticity,Trend Seeker
+R11341,Neutral,authenticity,Sporty
+R11342,Neutral,authenticity,Sporty
+R11343,Positive,experience,Accessory Glam
+R11344,Neutral,delivery,Accessory Glam
+R11345,Negative,price,Sporty
+R11346,Neutral,experience,Premium Classic
+R11347,Neutral,delivery,Premium Classic
+R11348,Positive,authenticity,Accessory Glam
+R11349,Neutral,variety,Sporty
+R11350,Negative,trust,Trend Seeker
+R11351,Negative,variety,Accessory Glam
+R11352,Positive,price,Accessory Glam
+R11353,Neutral,experience,Ethnic Fusion
+R11354,Negative,variety,Premium Classic
+R11355,Neutral,trust,Accessory Glam
+R11356,Positive,trust,Trend Seeker
+R11357,Negative,trust,Trend Seeker
+R11358,Neutral,trust,Premium Classic
+R11359,Positive,variety,Sporty
+R11360,Neutral,trust,Ethnic Fusion
+R11361,Positive,trust,Sporty
+R11362,Positive,experience,Ethnic Fusion
+R11363,Negative,variety,Premium Classic
+R11364,Positive,variety,Trend Seeker
+R11365,Negative,authenticity,Ethnic Fusion
+R11366,Positive,delivery,Trend Seeker
+R11367,Positive,price,Trend Seeker
+R11368,Negative,authenticity,Premium Classic
+R11369,Negative,experience,Premium Classic
+R11370,Negative,trust,Sporty
+R11371,Negative,trust,Premium Classic
+R11372,Negative,trust,Premium Classic
+R11373,Neutral,experience,Sporty
+R11374,Neutral,price,Sporty
+R11375,Negative,price,Ethnic Fusion
+R11376,Neutral,authenticity,Accessory Glam
+R11377,Neutral,price,Premium Classic
+R11378,Neutral,price,Ethnic Fusion
+R11379,Negative,authenticity,Trend Seeker
+R11380,Negative,authenticity,Sporty
+R11381,Positive,experience,Premium Classic
+R11382,Negative,authenticity,Accessory Glam
+R11383,Positive,variety,Sporty
+R11384,Negative,price,Sporty
+R11385,Neutral,authenticity,Ethnic Fusion
+R11386,Positive,delivery,Trend Seeker
+R11387,Neutral,delivery,Trend Seeker
+R11388,Positive,variety,Accessory Glam
+R11389,Positive,experience,Accessory Glam
+R11390,Neutral,experience,Sporty
+R11391,Negative,delivery,Accessory Glam
+R11392,Positive,variety,Premium Classic
+R11393,Negative,trust,Sporty
+R11394,Neutral,experience,Ethnic Fusion
+R11395,Positive,trust,Sporty
+R11396,Neutral,variety,Sporty
+R11397,Negative,variety,Premium Classic
+R11398,Positive,experience,Accessory Glam
+R11399,Neutral,experience,Ethnic Fusion
+R11400,Positive,trust,Sporty
+R11401,Positive,delivery,Premium Classic
+R11402,Positive,price,Trend Seeker
+R11403,Negative,authenticity,Trend Seeker
+R11404,Neutral,authenticity,Sporty
+R11405,Positive,price,Premium Classic
+R11406,Neutral,trust,Premium Classic
+R11407,Negative,authenticity,Sporty
+R11408,Positive,delivery,Accessory Glam
+R11409,Negative,trust,Sporty
+R11410,Positive,price,Trend Seeker
+R11411,Positive,authenticity,Trend Seeker
+R11412,Negative,delivery,Trend Seeker
+R11413,Positive,authenticity,Accessory Glam
+R11414,Negative,delivery,Sporty
+R11415,Negative,delivery,Premium Classic
+R11416,Positive,trust,Premium Classic
+R11417,Negative,delivery,Accessory Glam
+R11418,Neutral,variety,Ethnic Fusion
+R11419,Negative,experience,Sporty
+R11420,Negative,variety,Trend Seeker
+R11421,Neutral,delivery,Sporty
+R11422,Negative,variety,Sporty
+R11423,Positive,experience,Premium Classic
+R11424,Neutral,trust,Accessory Glam
+R11425,Negative,variety,Trend Seeker
+R11426,Negative,trust,Trend Seeker
+R11427,Neutral,trust,Trend Seeker
+R11428,Negative,experience,Sporty
+R11429,Negative,trust,Sporty
+R11430,Negative,delivery,Sporty
+R11431,Positive,authenticity,Sporty
+R11432,Negative,delivery,Premium Classic
+R11433,Positive,delivery,Sporty
+R11434,Neutral,price,Trend Seeker
+R11435,Positive,delivery,Accessory Glam
+R11436,Positive,experience,Ethnic Fusion
+R11437,Neutral,experience,Sporty
+R11438,Positive,price,Premium Classic
+R11439,Positive,experience,Sporty
+R11440,Negative,trust,Sporty
+R11441,Negative,variety,Trend Seeker
+R11442,Negative,experience,Premium Classic
+R11443,Negative,experience,Accessory Glam
+R11444,Neutral,authenticity,Accessory Glam
+R11445,Neutral,delivery,Sporty
+R11446,Positive,delivery,Ethnic Fusion
+R11447,Positive,price,Sporty
+R11448,Positive,trust,Ethnic Fusion
+R11449,Negative,experience,Trend Seeker
+R11450,Negative,variety,Sporty
+R11451,Negative,trust,Sporty
+R11452,Positive,variety,Sporty
+R11453,Positive,delivery,Accessory Glam
+R11454,Neutral,experience,Sporty
+R11455,Positive,trust,Accessory Glam
+R11456,Positive,authenticity,Sporty
+R11457,Positive,delivery,Ethnic Fusion
+R11458,Negative,trust,Sporty
+R11459,Neutral,authenticity,Trend Seeker
+R11460,Negative,variety,Accessory Glam
+R11461,Negative,experience,Sporty
+R11462,Positive,authenticity,Sporty
+R11463,Neutral,authenticity,Premium Classic
+R11464,Neutral,trust,Accessory Glam
+R11465,Neutral,price,Trend Seeker
+R11466,Negative,delivery,Sporty
+R11467,Positive,authenticity,Accessory Glam
+R11468,Negative,experience,Ethnic Fusion
+R11469,Positive,variety,Trend Seeker
+R11470,Negative,authenticity,Sporty
+R11471,Negative,authenticity,Sporty
+R11472,Positive,variety,Ethnic Fusion
+R11473,Positive,delivery,Trend Seeker
+R11474,Negative,delivery,Trend Seeker
+R11475,Positive,delivery,Accessory Glam
+R11476,Neutral,experience,Sporty
+R11477,Negative,trust,Accessory Glam
+R11478,Positive,delivery,Trend Seeker
+R11479,Positive,delivery,Ethnic Fusion
+R11480,Positive,experience,Accessory Glam
+R11481,Negative,experience,Trend Seeker
+R11482,Negative,experience,Sporty
+R11483,Negative,trust,Ethnic Fusion
+R11484,Negative,delivery,Accessory Glam
+R11485,Positive,trust,Premium Classic
+R11486,Negative,authenticity,Ethnic Fusion
+R11487,Neutral,price,Premium Classic
+R11488,Neutral,trust,Premium Classic
+R11489,Negative,authenticity,Ethnic Fusion
+R11490,Positive,variety,Trend Seeker
+R11491,Positive,delivery,Accessory Glam
+R11492,Negative,experience,Accessory Glam
+R11493,Positive,experience,Trend Seeker
+R11494,Negative,delivery,Premium Classic
+R11495,Negative,trust,Trend Seeker
+R11496,Negative,trust,Premium Classic
+R11497,Negative,variety,Trend Seeker
+R11498,Negative,variety,Trend Seeker
+R11499,Positive,experience,Sporty
+R11500,Neutral,experience,Sporty
+R11501,Negative,authenticity,Trend Seeker
+R11502,Positive,experience,Accessory Glam
+R11503,Negative,experience,Trend Seeker
+R11504,Negative,price,Sporty
+R11505,Positive,authenticity,Premium Classic
+R11506,Neutral,authenticity,Trend Seeker
+R11507,Positive,trust,Sporty
+R11508,Positive,trust,Trend Seeker
+R11509,Positive,trust,Accessory Glam
+R11510,Negative,authenticity,Premium Classic
+R11511,Positive,experience,Trend Seeker
+R11512,Positive,delivery,Ethnic Fusion
+R11513,Negative,trust,Sporty
+R11514,Negative,trust,Sporty
+R11515,Neutral,delivery,Sporty
+R11516,Positive,price,Accessory Glam
+R11517,Negative,variety,Ethnic Fusion
+R11518,Positive,trust,Trend Seeker
+R11519,Negative,price,Ethnic Fusion
+R11520,Neutral,price,Trend Seeker
+R11521,Neutral,variety,Sporty
+R11522,Positive,experience,Premium Classic
+R11523,Positive,experience,Trend Seeker
+R11524,Neutral,price,Accessory Glam
+R11525,Negative,variety,Premium Classic
+R11526,Negative,experience,Trend Seeker
+R11527,Negative,authenticity,Premium Classic
+R11528,Neutral,variety,Trend Seeker
+R11529,Neutral,delivery,Accessory Glam
+R11530,Negative,experience,Accessory Glam
+R11531,Neutral,authenticity,Trend Seeker
+R11532,Positive,trust,Premium Classic
+R11533,Negative,price,Trend Seeker
+R11534,Positive,authenticity,Premium Classic
+R11535,Positive,experience,Sporty
+R11536,Neutral,price,Accessory Glam
+R11537,Positive,variety,Ethnic Fusion
+R11538,Negative,trust,Ethnic Fusion
+R11539,Negative,variety,Sporty
+R11540,Neutral,price,Sporty
+R11541,Negative,trust,Accessory Glam
+R11542,Positive,experience,Accessory Glam
+R11543,Neutral,variety,Premium Classic
+R11544,Positive,price,Sporty
+R11545,Positive,authenticity,Premium Classic
+R11546,Negative,experience,Sporty
+R11547,Neutral,delivery,Sporty
+R11548,Positive,delivery,Accessory Glam
+R11549,Negative,trust,Sporty
+R11550,Neutral,authenticity,Trend Seeker
+R11551,Positive,trust,Trend Seeker
+R11552,Positive,variety,Premium Classic
+R11553,Negative,authenticity,Sporty
+R11554,Negative,variety,Ethnic Fusion
+R11555,Neutral,trust,Trend Seeker
+R11556,Positive,delivery,Ethnic Fusion
+R11557,Neutral,delivery,Premium Classic
+R11558,Neutral,experience,Accessory Glam
+R11559,Neutral,authenticity,Ethnic Fusion
+R11560,Positive,delivery,Sporty
+R11561,Positive,delivery,Premium Classic
+R11562,Positive,experience,Ethnic Fusion
+R11563,Positive,trust,Premium Classic
+R11564,Negative,experience,Premium Classic
+R11565,Negative,experience,Ethnic Fusion
+R11566,Positive,authenticity,Sporty
+R11567,Positive,authenticity,Trend Seeker
+R11568,Negative,delivery,Accessory Glam
+R11569,Negative,experience,Trend Seeker
+R11570,Positive,variety,Premium Classic
+R11571,Positive,price,Sporty
+R11572,Negative,variety,Accessory Glam
+R11573,Neutral,authenticity,Accessory Glam
+R11574,Positive,delivery,Sporty
+R11575,Negative,delivery,Sporty
+R11576,Positive,trust,Trend Seeker
+R11577,Negative,experience,Sporty
+R11578,Negative,experience,Trend Seeker
+R11579,Positive,authenticity,Ethnic Fusion
+R11580,Negative,authenticity,Sporty
+R11581,Negative,authenticity,Ethnic Fusion
+R11582,Negative,delivery,Trend Seeker
+R11583,Positive,delivery,Trend Seeker
+R11584,Negative,trust,Ethnic Fusion
+R11585,Positive,authenticity,Premium Classic
+R11586,Positive,experience,Ethnic Fusion
+R11587,Positive,variety,Sporty
+R11588,Positive,delivery,Trend Seeker
+R11589,Negative,trust,Premium Classic
+R11590,Positive,experience,Sporty
+R11591,Positive,experience,Trend Seeker
+R11592,Negative,experience,Trend Seeker
+R11593,Positive,variety,Premium Classic
+R11594,Positive,price,Premium Classic
+R11595,Negative,authenticity,Sporty
+R11596,Neutral,price,Sporty
+R11597,Negative,delivery,Sporty
+R11598,Neutral,trust,Ethnic Fusion
+R11599,Negative,experience,Accessory Glam
+R11600,Positive,price,Premium Classic
+R11601,Negative,price,Accessory Glam
+R11602,Positive,authenticity,Accessory Glam
+R11603,Positive,variety,Premium Classic
+R11604,Positive,variety,Sporty
+R11605,Negative,trust,Trend Seeker
+R11606,Positive,authenticity,Premium Classic
+R11607,Neutral,trust,Ethnic Fusion
+R11608,Positive,variety,Premium Classic
+R11609,Positive,authenticity,Trend Seeker
+R11610,Negative,authenticity,Premium Classic
+R11611,Neutral,trust,Accessory Glam
+R11612,Positive,delivery,Ethnic Fusion
+R11613,Negative,authenticity,Premium Classic
+R11614,Neutral,trust,Sporty
+R11615,Neutral,variety,Accessory Glam
+R11616,Positive,price,Sporty
+R11617,Negative,variety,Sporty
+R11618,Negative,authenticity,Trend Seeker
+R11619,Positive,variety,Sporty
+R11620,Negative,delivery,Sporty
+R11621,Neutral,variety,Trend Seeker
+R11622,Positive,delivery,Trend Seeker
+R11623,Negative,experience,Ethnic Fusion
+R11624,Positive,delivery,Sporty
+R11625,Positive,authenticity,Trend Seeker
+R11626,Negative,trust,Trend Seeker
+R11627,Positive,delivery,Accessory Glam
+R11628,Positive,authenticity,Premium Classic
+R11629,Positive,price,Trend Seeker
+R11630,Negative,trust,Trend Seeker
+R11631,Positive,trust,Premium Classic
+R11632,Negative,delivery,Sporty
+R11633,Neutral,trust,Accessory Glam
+R11634,Negative,authenticity,Premium Classic
+R11635,Neutral,trust,Sporty
+R11636,Negative,price,Trend Seeker
+R11637,Positive,authenticity,Sporty
+R11638,Negative,authenticity,Sporty
+R11639,Neutral,authenticity,Trend Seeker
+R11640,Negative,price,Accessory Glam
+R11641,Neutral,variety,Accessory Glam
+R11642,Neutral,delivery,Sporty
+R11643,Negative,authenticity,Sporty
+R11644,Neutral,price,Ethnic Fusion
+R11645,Positive,experience,Trend Seeker
+R11646,Positive,variety,Trend Seeker
+R11647,Neutral,authenticity,Sporty
+R11648,Negative,price,Sporty
+R11649,Negative,experience,Sporty
+R11650,Negative,price,Accessory Glam
+R11651,Positive,price,Ethnic Fusion
+R11652,Positive,trust,Premium Classic
+R11653,Positive,experience,Accessory Glam
+R11654,Positive,experience,Accessory Glam
+R11655,Neutral,trust,Accessory Glam
+R11656,Neutral,trust,Trend Seeker
+R11657,Neutral,authenticity,Sporty
+R11658,Negative,delivery,Ethnic Fusion
+R11659,Neutral,price,Premium Classic
+R11660,Negative,experience,Premium Classic
+R11661,Positive,authenticity,Sporty
+R11662,Positive,variety,Trend Seeker
+R11663,Neutral,delivery,Sporty
+R11664,Negative,price,Trend Seeker
+R11665,Neutral,price,Ethnic Fusion
+R11666,Positive,authenticity,Premium Classic
+R11667,Negative,experience,Ethnic Fusion
+R11668,Negative,experience,Ethnic Fusion
+R11669,Negative,authenticity,Trend Seeker
+R11670,Positive,authenticity,Trend Seeker
+R11671,Negative,delivery,Accessory Glam
+R11672,Negative,delivery,Trend Seeker
+R11673,Neutral,price,Sporty
+R11674,Positive,price,Ethnic Fusion
+R11675,Positive,price,Premium Classic
+R11676,Neutral,trust,Ethnic Fusion
+R11677,Positive,experience,Premium Classic
+R11678,Positive,price,Premium Classic
+R11679,Negative,experience,Trend Seeker
+R11680,Negative,delivery,Trend Seeker
+R11681,Negative,delivery,Premium Classic
+R11682,Neutral,trust,Accessory Glam
+R11683,Negative,variety,Premium Classic
+R11684,Positive,price,Sporty
+R11685,Negative,trust,Trend Seeker
+R11686,Neutral,delivery,Sporty
+R11687,Positive,trust,Premium Classic
+R11688,Positive,delivery,Sporty
+R11689,Positive,delivery,Premium Classic
+R11690,Negative,price,Ethnic Fusion
+R11691,Positive,price,Sporty
+R11692,Negative,delivery,Trend Seeker
+R11693,Negative,price,Trend Seeker
+R11694,Positive,authenticity,Sporty
+R11695,Positive,trust,Ethnic Fusion
+R11696,Neutral,price,Sporty
+R11697,Negative,experience,Premium Classic
+R11698,Positive,delivery,Accessory Glam
+R11699,Neutral,experience,Accessory Glam
+R11700,Positive,variety,Sporty
+R11701,Neutral,experience,Accessory Glam
+R11702,Negative,trust,Ethnic Fusion
+R11703,Negative,authenticity,Trend Seeker
+R11704,Negative,authenticity,Accessory Glam
+R11705,Neutral,authenticity,Premium Classic
+R11706,Positive,delivery,Premium Classic
+R11707,Negative,price,Trend Seeker
+R11708,Negative,price,Sporty
+R11709,Negative,authenticity,Trend Seeker
+R11710,Positive,variety,Sporty
+R11711,Neutral,price,Sporty
+R11712,Negative,experience,Trend Seeker
+R11713,Negative,price,Sporty
+R11714,Positive,authenticity,Trend Seeker
+R11715,Negative,delivery,Trend Seeker
+R11716,Positive,experience,Sporty
+R11717,Negative,price,Premium Classic
+R11718,Positive,variety,Sporty
+R11719,Positive,variety,Trend Seeker
+R11720,Negative,trust,Sporty
+R11721,Positive,authenticity,Accessory Glam
+R11722,Negative,authenticity,Trend Seeker
+R11723,Positive,variety,Premium Classic
+R11724,Neutral,delivery,Sporty
+R11725,Negative,delivery,Sporty
+R11726,Negative,delivery,Sporty
+R11727,Negative,delivery,Sporty
+R11728,Positive,delivery,Ethnic Fusion
+R11729,Negative,price,Sporty
+R11730,Positive,price,Premium Classic
+R11731,Negative,trust,Trend Seeker
+R11732,Negative,variety,Ethnic Fusion
+R11733,Positive,experience,Premium Classic
+R11734,Negative,trust,Premium Classic
+R11735,Positive,price,Sporty
+R11736,Negative,price,Trend Seeker
+R11737,Neutral,delivery,Trend Seeker
+R11738,Neutral,delivery,Trend Seeker
+R11739,Negative,variety,Sporty
+R11740,Neutral,experience,Premium Classic
+R11741,Positive,variety,Trend Seeker
+R11742,Negative,trust,Sporty
+R11743,Negative,experience,Trend Seeker
+R11744,Neutral,delivery,Sporty
+R11745,Positive,variety,Accessory Glam
+R11746,Negative,delivery,Sporty
+R11747,Positive,price,Ethnic Fusion
+R11748,Positive,variety,Trend Seeker
+R11749,Positive,price,Premium Classic
+R11750,Positive,authenticity,Sporty
+R11751,Positive,price,Premium Classic
+R11752,Positive,authenticity,Sporty
+R11753,Positive,variety,Premium Classic
+R11754,Positive,experience,Premium Classic
+R11755,Positive,delivery,Premium Classic
+R11756,Positive,price,Accessory Glam
+R11757,Negative,price,Premium Classic
+R11758,Neutral,experience,Accessory Glam
+R11759,Negative,delivery,Accessory Glam
+R11760,Positive,price,Trend Seeker
+R11761,Positive,variety,Sporty
+R11762,Neutral,authenticity,Premium Classic
+R11763,Positive,delivery,Trend Seeker
+R11764,Positive,experience,Sporty
+R11765,Positive,authenticity,Sporty
+R11766,Positive,trust,Premium Classic
+R11767,Positive,price,Premium Classic
+R11768,Positive,price,Sporty
+R11769,Negative,trust,Premium Classic
+R11770,Neutral,trust,Trend Seeker
+R11771,Neutral,experience,Trend Seeker
+R11772,Positive,variety,Sporty
+R11773,Neutral,variety,Ethnic Fusion
+R11774,Positive,trust,Sporty
+R11775,Negative,authenticity,Sporty
+R11776,Positive,delivery,Sporty
+R11777,Negative,experience,Sporty
+R11778,Positive,price,Trend Seeker
+R11779,Positive,trust,Sporty
+R11780,Positive,variety,Ethnic Fusion
+R11781,Negative,variety,Accessory Glam
+R11782,Positive,delivery,Premium Classic
+R11783,Neutral,variety,Trend Seeker
+R11784,Negative,experience,Trend Seeker
+R11785,Positive,authenticity,Ethnic Fusion
+R11786,Negative,experience,Sporty
+R11787,Negative,delivery,Trend Seeker
+R11788,Neutral,variety,Sporty
+R11789,Negative,delivery,Sporty
+R11790,Positive,trust,Accessory Glam
+R11791,Negative,price,Sporty
+R11792,Negative,delivery,Trend Seeker
+R11793,Positive,trust,Sporty
+R11794,Negative,price,Accessory Glam
+R11795,Negative,variety,Sporty
+R11796,Positive,authenticity,Sporty
+R11797,Positive,trust,Trend Seeker
+R11798,Negative,trust,Sporty
+R11799,Positive,delivery,Sporty
+R11800,Positive,trust,Trend Seeker
+R11801,Neutral,authenticity,Ethnic Fusion
+R11802,Positive,variety,Trend Seeker
+R11803,Positive,trust,Sporty
+R11804,Negative,trust,Premium Classic
+R11805,Positive,variety,Accessory Glam
+R11806,Neutral,experience,Premium Classic
+R11807,Neutral,delivery,Accessory Glam
+R11808,Positive,trust,Trend Seeker
+R11809,Positive,experience,Ethnic Fusion
+R11810,Neutral,experience,Premium Classic
+R11811,Negative,delivery,Ethnic Fusion
+R11812,Positive,price,Trend Seeker
+R11813,Neutral,experience,Trend Seeker
+R11814,Positive,variety,Premium Classic
+R11815,Positive,delivery,Trend Seeker
+R11816,Positive,price,Premium Classic
+R11817,Positive,trust,Sporty
+R11818,Positive,delivery,Premium Classic
+R11819,Negative,experience,Sporty
+R11820,Negative,experience,Ethnic Fusion
+R11821,Negative,experience,Accessory Glam
+R11822,Positive,delivery,Accessory Glam
+R11823,Negative,trust,Premium Classic
+R11824,Positive,authenticity,Premium Classic
+R11825,Positive,delivery,Premium Classic
+R11826,Positive,experience,Premium Classic
+R11827,Negative,experience,Trend Seeker
+R11828,Positive,authenticity,Accessory Glam
+R11829,Positive,authenticity,Sporty
+R11830,Positive,authenticity,Sporty
+R11831,Negative,variety,Sporty
+R11832,Positive,variety,Premium Classic
+R11833,Negative,delivery,Sporty
+R11834,Negative,trust,Trend Seeker
+R11835,Positive,authenticity,Sporty
+R11836,Negative,delivery,Sporty
+R11837,Positive,price,Trend Seeker
+R11838,Positive,price,Ethnic Fusion
+R11839,Neutral,price,Sporty
+R11840,Positive,authenticity,Premium Classic
+R11841,Negative,delivery,Sporty
+R11842,Positive,delivery,Trend Seeker
+R11843,Positive,price,Premium Classic
+R11844,Neutral,price,Trend Seeker
+R11845,Negative,experience,Trend Seeker
+R11846,Positive,price,Ethnic Fusion
+R11847,Positive,trust,Sporty
+R11848,Positive,authenticity,Sporty
+R11849,Positive,variety,Premium Classic
+R11850,Neutral,delivery,Premium Classic
+R11851,Positive,variety,Sporty
+R11852,Positive,price,Ethnic Fusion
+R11853,Positive,trust,Accessory Glam
+R11854,Positive,experience,Ethnic Fusion
+R11855,Neutral,variety,Ethnic Fusion
+R11856,Neutral,experience,Premium Classic
+R11857,Negative,delivery,Ethnic Fusion
+R11858,Negative,variety,Trend Seeker
+R11859,Neutral,authenticity,Trend Seeker
+R11860,Positive,trust,Trend Seeker
+R11861,Negative,trust,Ethnic Fusion
+R11862,Neutral,authenticity,Accessory Glam
+R11863,Neutral,authenticity,Trend Seeker
+R11864,Negative,price,Sporty
+R11865,Negative,variety,Accessory Glam
+R11866,Neutral,variety,Premium Classic
+R11867,Positive,price,Trend Seeker
+R11868,Positive,authenticity,Accessory Glam
+R11869,Positive,trust,Trend Seeker
+R11870,Negative,price,Sporty
+R11871,Negative,variety,Accessory Glam
+R11872,Positive,experience,Sporty
+R11873,Negative,price,Sporty
+R11874,Neutral,variety,Sporty
+R11875,Positive,variety,Trend Seeker
+R11876,Neutral,authenticity,Sporty
+R11877,Negative,experience,Premium Classic
+R11878,Negative,variety,Ethnic Fusion
+R11879,Positive,experience,Trend Seeker
+R11880,Negative,experience,Ethnic Fusion
+R11881,Negative,delivery,Premium Classic
+R11882,Neutral,authenticity,Sporty
+R11883,Neutral,authenticity,Accessory Glam
+R11884,Positive,variety,Sporty
+R11885,Neutral,variety,Ethnic Fusion
+R11886,Positive,trust,Sporty
+R11887,Negative,experience,Accessory Glam
+R11888,Positive,delivery,Trend Seeker
+R11889,Positive,delivery,Accessory Glam
+R11890,Positive,delivery,Premium Classic
+R11891,Positive,trust,Trend Seeker
+R11892,Neutral,variety,Sporty
+R11893,Negative,trust,Accessory Glam
+R11894,Positive,delivery,Premium Classic
+R11895,Negative,delivery,Trend Seeker
+R11896,Negative,trust,Trend Seeker
+R11897,Neutral,delivery,Trend Seeker
+R11898,Neutral,trust,Trend Seeker
+R11899,Positive,experience,Accessory Glam
+R11900,Positive,delivery,Sporty
+R11901,Positive,variety,Accessory Glam
+R11902,Negative,delivery,Trend Seeker
+R11903,Negative,delivery,Trend Seeker
+R11904,Positive,trust,Premium Classic
+R11905,Negative,authenticity,Trend Seeker
+R11906,Positive,price,Trend Seeker
+R11907,Positive,delivery,Accessory Glam
+R11908,Positive,variety,Ethnic Fusion
+R11909,Positive,delivery,Accessory Glam
+R11910,Positive,experience,Sporty
+R11911,Neutral,trust,Premium Classic
+R11912,Positive,delivery,Sporty
+R11913,Positive,delivery,Accessory Glam
+R11914,Negative,price,Sporty
+R11915,Positive,variety,Ethnic Fusion
+R11916,Neutral,variety,Sporty
+R11917,Positive,delivery,Sporty
+R11918,Positive,delivery,Accessory Glam
+R11919,Negative,variety,Sporty
+R11920,Positive,authenticity,Sporty
+R11921,Negative,experience,Trend Seeker
+R11922,Positive,delivery,Ethnic Fusion
+R11923,Negative,trust,Premium Classic
+R11924,Positive,delivery,Trend Seeker
+R11925,Negative,experience,Sporty
+R11926,Positive,price,Trend Seeker
+R11927,Neutral,variety,Sporty
+R11928,Negative,delivery,Accessory Glam
+R11929,Negative,trust,Trend Seeker
+R11930,Positive,delivery,Ethnic Fusion
+R11931,Neutral,variety,Accessory Glam
+R11932,Negative,trust,Accessory Glam
+R11933,Positive,variety,Trend Seeker
+R11934,Negative,trust,Sporty
+R11935,Negative,variety,Premium Classic
+R11936,Positive,price,Trend Seeker
+R11937,Positive,delivery,Sporty
+R11938,Positive,delivery,Sporty
+R11939,Positive,trust,Premium Classic
+R11940,Positive,delivery,Sporty
+R11941,Positive,authenticity,Sporty
+R11942,Negative,experience,Trend Seeker
+R11943,Negative,experience,Trend Seeker
+R11944,Negative,price,Sporty
+R11945,Neutral,authenticity,Trend Seeker
+R11946,Positive,delivery,Sporty
+R11947,Positive,trust,Ethnic Fusion
+R11948,Neutral,authenticity,Trend Seeker
+R11949,Negative,variety,Trend Seeker
+R11950,Negative,delivery,Trend Seeker
+R11951,Negative,delivery,Trend Seeker
+R11952,Positive,price,Trend Seeker
+R11953,Negative,authenticity,Trend Seeker
+R11954,Negative,authenticity,Ethnic Fusion
+R11955,Neutral,trust,Accessory Glam
+R11956,Positive,authenticity,Trend Seeker
+R11957,Negative,delivery,Trend Seeker
+R11958,Positive,authenticity,Sporty
+R11959,Positive,delivery,Premium Classic
+R11960,Negative,delivery,Trend Seeker
+R11961,Positive,delivery,Premium Classic
+R11962,Positive,delivery,Ethnic Fusion
+R11963,Positive,trust,Accessory Glam
+R11964,Positive,experience,Accessory Glam
+R11965,Neutral,delivery,Accessory Glam
+R11966,Neutral,variety,Premium Classic
+R11967,Positive,price,Trend Seeker
+R11968,Neutral,authenticity,Sporty
+R11969,Negative,variety,Ethnic Fusion
+R11970,Positive,price,Sporty
+R11971,Negative,authenticity,Accessory Glam
+R11972,Neutral,authenticity,Accessory Glam
+R11973,Negative,delivery,Sporty
+R11974,Positive,trust,Sporty
+R11975,Neutral,experience,Trend Seeker
+R11976,Negative,price,Premium Classic
+R11977,Negative,trust,Ethnic Fusion
+R11978,Negative,authenticity,Sporty
+R11979,Negative,delivery,Premium Classic
+R11980,Neutral,trust,Sporty
+R11981,Negative,price,Sporty
+R11982,Positive,variety,Sporty
+R11983,Neutral,variety,Accessory Glam
+R11984,Neutral,experience,Trend Seeker
+R11985,Positive,experience,Ethnic Fusion
+R11986,Negative,price,Trend Seeker
+R11987,Neutral,delivery,Sporty
+R11988,Positive,authenticity,Sporty
+R11989,Negative,trust,Trend Seeker
+R11990,Neutral,authenticity,Sporty
+R11991,Negative,experience,Sporty
+R11992,Positive,variety,Premium Classic
+R11993,Positive,experience,Sporty
+R11994,Positive,variety,Premium Classic
+R11995,Positive,delivery,Trend Seeker
+R11996,Neutral,experience,Trend Seeker
+R11997,Neutral,price,Trend Seeker
+R11998,Negative,delivery,Trend Seeker
+R11999,Neutral,trust,Premium Classic

@@ -1,0 +1,31 @@
+code,question,type,options,used_by
+Q1_age,What is your age (in years)?,Numeric,,"Classification, Regression, Clustering"
+Q2_gender,What is your gender?,Single choice,Female · Male · Non-binary / Prefer not to say,"Classification, Descriptive"
+Q3_area,Where in Mumbai do you live?,Single choice,South Mumbai · Western Suburbs · Central Suburbs · Thane · Navi Mumbai · Other MMR,"Classification, Store-location diagnostics"
+Q4_occupation,What is your occupation?,Single choice,Student · Salaried professional · Business owner / Self-employed · Freelancer / Creator · Homemaker · Retired,"Classification, Clustering"
+Q5_household_income,What is your monthly household income?,Single choice (ordinal),< ₹50K · ₹50K–1L · ₹1L–2L · ₹2L–4L · ₹4L–8L · > ₹8L,"Classification, Regression, Clustering"
+Q6_household_type,Which best describes your household?,Single choice,"Living alone / with flatmates · Couple, no kids · Family with kids · Joint family","Classification, Descriptive"
+Q7_education,What is your highest education level?,Single choice (ordinal),School / Diploma · Graduate · Post-graduate · Doctorate / Professional,Classification
+Q8_shop_freq_month,"How many times a month do you shop for fashion, footwear or accessories (online + offline)?",Numeric,,"Classification, Regression, Clustering"
+Q9_monthly_fashion_spend,"Roughly how much do you spend on fashion, footwear & accessories per month (₹)?",Numeric (₹),,"Regression (key driver), Clustering"
+Q10_channel,How do you usually shop for fashion?,Single choice,Mostly online · Both equally · Mostly offline,"Classification, Omnichannel planning"
+Q11_platforms_used,Which platforms / stores have you bought fashion from in the last 6 months?,Multi-select,Myntra · Ajio · Nykaa Fashion · Tata CLiQ · Amazon Fashion · Shoppers Stop / Lifestyle · Brand-owned stores · Instagram sellers,"Competitor diagnostics, Association"
+Q12_categories,Which categories do you buy most often?,Multi-select,Apparel · Footwear · Bags & accessories · Athleisure / sportswear · Watches & eyewear · Beauty & fragrance · Kidswear,"Category mix, Association"
+Q13_avg_order_value,What is your typical spend per fashion order / bill (₹)?,Numeric (₹),,"Regression, Break-even (AOV)"
+Q14_social_hrs_week,How many hours a week do you spend on Instagram / YouTube / fashion apps?,Numeric,,"Classification, Marketing-channel planning"
+Q15_bought_intl_brand,Have you bought an international fashion brand in the last 6 months?,Yes / No,Yes · No,Classification
+Q16_brand_preference,I prefer buying branded products over unbranded ones.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q17_authenticity_matters,A 100% authenticity guarantee strongly influences where I shop.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q18_discount_seeker,I mostly buy fashion only during sales or with discount codes.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q19_multibrand_appeal,I would like to discover many brands in one store / one app.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q20_ai_reco_interest,I would value AI-based personalised outfit and product recommendations.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q21_phygital_interest,"I would use 'try in store, get it delivered home' or 'reserve online, try in store'.",Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q22_loyalty_influence,Loyalty points and member rewards influence where I shop.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q23_sustainability_values,"I prefer brands with sustainable or ethical practices, even at a slightly higher price.",Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q24_data_sharing_comfort,I am comfortable sharing my shopping data in return for personalised offers.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q25_fast_delivery_need,Same-day / 90-minute delivery would make me shop more often.,Likert 1–5,Strongly disagree … Strongly agree,"Classification, Clustering, Hypothesis tests"
+Q26_brands_wanted,"If these brands were all available at LaneOne, which would you buy? (select all)",Multi-select,Nike · Adidas · Puma · Skechers · Levi's · Tommy Hilfiger · Calvin Klein · Zara · H&M · Mango · Charles & Keith · ALDO · Steve Madden · Crocs · FabIndia,Association rule mining (Apriori)
+Q27_attraction_driver,What would MOST make you try LaneOne?,Single choice,Big discounts & sales · Authentic international brands · Fast delivery (90 min) · Personalised recommendations · Loyalty rewards · In-store experience & events,"Classification, Prescriptive marketing"
+Q28_expected_monthly_spend,How much would you expect to spend per month at LaneOne (₹)?,Numeric (₹),,Regression TARGET
+Q29_feedback_text,"In your own words: what frustrates you about fashion shopping in Mumbai today, and what would you want from a new multi-brand store?",Open text,,Text analytics / sentiment
+Q30_purchase_intent,"If LaneOne (store + app) opened in Mumbai, how likely are you to shop there in the first 3 months?",Single choice (5-pt),Definitely not · Probably not · Not sure · Probably will · Definitely will,Classification TARGET (Probably/Definitely will = 1)

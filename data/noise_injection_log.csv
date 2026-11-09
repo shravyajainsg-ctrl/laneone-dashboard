@@ -1,0 +1,52 @@
+noise_type,column,rows_affected
+Missing values,Q1_age,60
+Missing values,Q5_household_income,100
+Missing values,Q9_monthly_fashion_spend,120
+Missing values,Q13_avg_order_value,100
+Missing values,Q14_social_hrs_week,140
+Missing values,Q28_expected_monthly_spend,80
+Missing values,Q29_feedback_text,120
+Missing values,Q10_channel,40
+Missing values,Q16_brand_preference,60
+Missing values,Q17_authenticity_matters,60
+Missing values,Q18_discount_seeker,60
+Missing values,Q19_multibrand_appeal,60
+Missing values,Q20_ai_reco_interest,60
+Missing values,Q21_phygital_interest,60
+Missing values,Q22_loyalty_influence,60
+Missing values,Q23_sustainability_values,60
+Missing values,Q24_data_sharing_comfort,60
+Missing values,Q25_fast_delivery_need,60
+Inconsistent labels,Q2_gender,240
+Inconsistent labels / sub-localities,Q3_area,300
+Inconsistent income band text,Q5_household_income,200
+Inconsistent case/spacing,Q30_purchase_intent,160
+Inconsistent labels,Q10_channel,100
+Money stored as text,Q9_monthly_fashion_spend,187
+Money stored as text,Q13_avg_order_value,193
+Money stored as text,Q28_expected_monthly_spend,191
+Likert as text + out-of-range,Q16_brand_preference,92
+Likert as text + out-of-range,Q17_authenticity_matters,92
+Likert as text + out-of-range,Q18_discount_seeker,92
+Likert as text + out-of-range,Q19_multibrand_appeal,92
+Likert as text + out-of-range,Q20_ai_reco_interest,92
+Likert as text + out-of-range,Q21_phygital_interest,92
+Likert as text + out-of-range,Q22_loyalty_influence,92
+Likert as text + out-of-range,Q23_sustainability_values,92
+Likert as text + out-of-range,Q24_data_sharing_comfort,92
+Likert as text + out-of-range,Q25_fast_delivery_need,92
+Impossible ages,Q1_age,24
+Age typed as text,Q1_age,20
+Extreme spend (x100 typo),Q9_monthly_fashion_spend,30
+Negative spend,Q9_monthly_fashion_spend,10
+Extreme expected spend,Q28_expected_monthly_spend,16
+Impossible shopping frequency,Q8_shop_freq_month,20
+Social hrs > hours in a week,Q14_social_hrs_week,16
+"Genuine luxury shoppers (valid outliers, keep)",Q9_monthly_fashion_spend,20
+Junk text,Q29_feedback_text,60
+SHOUTING text,Q29_feedback_text,100
+Speeders / straight-liners (bots),completion_time_sec + Likert,60
+Random label noise,Q30_purchase_intent,80
+Mixed date formats,submitted_at,2000
+Exact duplicate submissions,all,40
+"Duplicate person, new resp_id",all,20

@@ -1,0 +1,4 @@
+Scenario,Total capex (₹ Cr),"Peak cash needed, base (₹ Cr)",Break-even month (base),Payback month (base),P(monthly profit ≤ 24 m),P(payback ≤ 48 m),Expected cash @48m (₹ Cr),Bad case P10 cash (₹ Cr),P(loss > ₹5 Cr),P(scale-up)
+"A. Lean pilot only (1,500 sq ft, 8 brands)",2.01,4.803076807219528,25,,0.448,0.223,-3.6808406498500617,-9.854820201116079,0.456,
+"B. Full flagship from day 1 (4,000 sq ft, 15 brands)",5.06,8.652443896229142,15,47.0,0.735,0.491,1.395068213806938,-15.240368243992055,0.365,
+C. Staged: lean pilot → flagship in month 13 (recommended),5.87,9.270532456176447,21,,0.445,0.309,0.404021162248958,-4.83511262739223,0.078,0.481
